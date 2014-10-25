@@ -235,8 +235,7 @@ Extensions for Web sites and blogging
    :extension-name:`sphinxtogithub`
    |sphinxtogithub-py_versions| |sphinxtogithub-download|
 
-   Script for preparing the html output of the Sphinx documentation system for
-github pages.
+   Script for preparing the html output of the Sphinx documentation system for github pages.
 
    :author:  Michael Jones
    :version: 1.1.0

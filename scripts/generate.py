@@ -87,7 +87,7 @@ class ExtensionOnPyPI(Extension):
         if releases:
             self.released_at = iso8601.parse_date(releases[0]['upload_time']).replace(tzinfo=None)
         if r['info']['summary']:
-            self.description = r['info']['summary']
+            self.description = r['info']['summary'].replace('\n', ' ')
         else:
             self.description = r['info']['description'].split('\n')[0]
 
