@@ -119,7 +119,7 @@ Enhances features of Sphinx
    :extension-name:`sphinx-classy-code`
    |sphinx-classy-code-py_versions| |sphinx-classy-code-download|
 
-   UNKNOWN
+   
 
    :author:  Nathan Yergler
    :version: 0.1

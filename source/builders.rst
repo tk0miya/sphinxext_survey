@@ -11,7 +11,7 @@ Enables to output document as new format
    :extension-name:`hieroglyph`
    |hieroglyph-py_versions| |hieroglyph-download|
 
-   UNKNOWN
+   
 
    :author:  Nathan Yergler
    :version: 0.6.5

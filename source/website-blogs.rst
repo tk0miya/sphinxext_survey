@@ -167,7 +167,7 @@ Extensions for Web sites and blogging
    :extension-name:`sphinxcontrib-recentpages`
    |sphinxcontrib-recentpages-py_versions| |sphinxcontrib-recentpages-download|
 
-   UNKNOWN
+   
 
    :author:  Sho Shimauchi
    :version: 0.7.1
