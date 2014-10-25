@@ -1,5 +1,5 @@
-enhancement
-===========
+enhancement (27)
+================
 
 Enhances features of Sphinx
 

@@ -1,5 +1,5 @@
-website/blogs
-=============
+website/blogs (15)
+==================
 
 Extensions for Web sites and blogging
 

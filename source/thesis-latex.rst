@@ -1,5 +1,5 @@
-thesis/latex
-============
+thesis/latex (4)
+================
 
 Extensions for thesis and LaTeX
 

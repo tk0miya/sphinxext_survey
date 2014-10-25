@@ -1,5 +1,5 @@
-metadata
-========
+metadata (5)
+============
 
 Enables to mark up metadata to document
 

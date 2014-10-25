@@ -179,8 +179,9 @@ def main():
     for category, extensions in categories.items():
         output = os.path.join(SOURCEDIR, category.replace("/", "-") + '.rst')
         with io.open(output, 'wt', encoding='utf-8') as fd:
-            fd.write(u"%s\n" % category)
-            fd.write(u"%s\n" % ("=" * len(category)))
+            category_name = "%s (%d)" % (category, len(extensions))
+            fd.write(u"%s\n" % category_name)
+            fd.write(u"%s\n" % ("=" * len(category_name)))
             fd.write(u"\n")
             fd.write(u"%s\n" % descriptions[category])
             fd.write(u"\n")

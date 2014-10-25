@@ -1,5 +1,5 @@
-jokes
-=====
+jokes (4)
+=========
 
 Joke extensions
 

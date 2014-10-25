@@ -1,5 +1,5 @@
-changelog/version-control
-=========================
+changelog/version-control (10)
+==============================
 
 Enables to mark up changelog, history and version info
 

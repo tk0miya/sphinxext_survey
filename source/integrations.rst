@@ -1,5 +1,5 @@
-integrations
-============
+integrations (4)
+================
 
 Integrates with other documents
 

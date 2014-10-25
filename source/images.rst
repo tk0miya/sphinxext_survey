@@ -1,5 +1,5 @@
-images
-======
+images (33)
+===========
 
 Inserts (generates) images to document
 
