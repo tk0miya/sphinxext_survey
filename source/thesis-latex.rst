@@ -27,6 +27,8 @@ Extensions for thesis and LaTeX
    :extension-name:`sphinxcontrib-bibtex`
    |sphinxcontrib-bibtex-py_versions| |sphinxcontrib-bibtex-download|
 
+   A Sphinx extension for BibTeX style citations.
+
    :author:  Matthias C. M. Troffaes
    :version: 0.3.1
    :release: 2014-07-10 12:30:47

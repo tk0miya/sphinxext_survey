@@ -11,6 +11,8 @@ Extensions for Web sites and blogging
    :extension-name:`ablog`
    |ablog-py_versions| |ablog-download|
 
+   ABlog for blogging with Sphinx
+
    :author:  Ahmet Bakan
    :version: 0.3.1
    :release: 2014-09-24 04:27:56
@@ -28,6 +30,8 @@ Extensions for Web sites and blogging
 
    :extension-name:`pylons_sphinx_latesturl`
    |pylons_sphinx_latesturl-py_versions| |pylons_sphinx_latesturl-download|
+
+   Sphinx extension: generate "latest" URL for versioned docs
 
    :author:  Agendaless Consulting
    :version: 0.1.1
@@ -63,6 +67,8 @@ Extensions for Web sites and blogging
    :extension-name:`sphinx_amazonjp_embed`
    |sphinx_amazonjp_embed-py_versions| |sphinx_amazonjp_embed-download|
 
+   embedding amazon.co.jp in sphinx
+
    :author:  @shomah4a
    :version: 0.1.0
    :release: 2013-03-23 14:01:09
@@ -80,6 +86,8 @@ Extensions for Web sites and blogging
 
    :extension-name:`sphinxcontrib-ansi`
    |sphinxcontrib-ansi-py_versions| |sphinxcontrib-ansi-download|
+
+   Sphinx extension ansi
 
    :author:  Sebastian Wiesner
    :version: 0.6
@@ -99,6 +107,8 @@ Extensions for Web sites and blogging
    :extension-name:`sphinxcontrib-fulltoc`
    |sphinxcontrib-fulltoc-py_versions| |sphinxcontrib-fulltoc-download|
 
+   Include a full table of contents in your Sphinx HTML sidebar
+
    :author:  Doug Hellmann
    :version: 1.0
    :release: 2012-08-04 16:43:54
@@ -116,6 +126,8 @@ Extensions for Web sites and blogging
 
    :extension-name:`sphinxcontrib-googleanalytics`
    |sphinxcontrib-googleanalytics-py_versions| |sphinxcontrib-googleanalytics-download|
+
+   Sphinx extension googleanalytics
 
    :author:  Domen Kozar
    :version: 0.1
@@ -135,6 +147,8 @@ Extensions for Web sites and blogging
    :extension-name:`sphinxcontrib-newsfeed`
    |sphinxcontrib-newsfeed-py_versions| |sphinxcontrib-newsfeed-download|
 
+   News Feed extension for Sphinx
+
    :author:  Kirill Simonov (Prometheus Research, LLC)
    :version: 0.1.1
    :release: 2013-03-01 00:46:14
@@ -153,6 +167,8 @@ Extensions for Web sites and blogging
    :extension-name:`sphinxcontrib-recentpages`
    |sphinxcontrib-recentpages-py_versions| |sphinxcontrib-recentpages-download|
 
+   UNKNOWN
+
    :author:  Sho Shimauchi
    :version: 0.7.1
    :release: 2012-12-17 14:55:29
@@ -170,6 +186,8 @@ Extensions for Web sites and blogging
 
    :extension-name:`sphinxcontrib.contributors`
    |sphinxcontrib.contributors-py_versions| |sphinxcontrib.contributors-download|
+
+   Show document contributors on the page
 
    :author:  Mikko Ohtamaa
    :version: 1.0
@@ -197,6 +215,8 @@ Extensions for Web sites and blogging
    :extension-name:`sphinxfeed`
    |sphinxfeed-py_versions| |sphinxfeed-download|
 
+   Sphinx extension for generating RSS feeds
+
    :author:  junkafarian
    :version: 0.3
    :release: 2011-11-23 00:08:44
@@ -215,6 +235,9 @@ Extensions for Web sites and blogging
    :extension-name:`sphinxtogithub`
    |sphinxtogithub-py_versions| |sphinxtogithub-download|
 
+   Script for preparing the html output of the Sphinx documentation system for
+github pages.
+
    :author:  Michael Jones
    :version: 1.1.0
    :release: 2013-10-26 00:39:25
@@ -232,6 +255,8 @@ Extensions for Web sites and blogging
 
    :extension-name:`yasfb`
    |yasfb-py_versions| |yasfb-download|
+
+   Yet Another Sphinx Feed Builder
 
    :author:  Doug Hellmann
    :version: 0.5.1

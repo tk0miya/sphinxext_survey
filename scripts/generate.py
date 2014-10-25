@@ -76,6 +76,7 @@ class ExtensionOnPyPI(Extension):
     author = 'unknown'
     version = 'unknown'
     released_at = 'unknown'
+    description = ''
 
     def fetch_packageinfo(self):
         url = "https://pypi.python.org/pypi/%s/json" % self.name
@@ -85,6 +86,10 @@ class ExtensionOnPyPI(Extension):
         releases = r['releases'].get(self.version)
         if releases:
             self.released_at = iso8601.parse_date(releases[0]['upload_time']).replace(tzinfo=None)
+        if r['info']['summary']:
+            self.description = r['info']['summary']
+        else:
+            self.description = r['info']['description'].split('\n')[0]
 
     def to_rst(self):
         self.fetch_packageinfo()
@@ -93,6 +98,8 @@ class ExtensionOnPyPI(Extension):
 
            :extension-name:`%(package_name)s`
            |%(package_name)s-py_versions| |%(package_name)s-download|
+
+           %(description)s
 
            :author:  %(author)s
            :version: %(version)s
@@ -108,6 +115,7 @@ class ExtensionOnPyPI(Extension):
               :alt: Downloads
         """
         params = dict(package_name=self.name,
+                      description=self.description,
                       author=self.author,
                       url=self.url,
                       version=self.version,

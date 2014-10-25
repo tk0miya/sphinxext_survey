@@ -19,6 +19,8 @@ Enhances features of Sphinx
    :extension-name:`cartouche`
    |cartouche-py_versions| |cartouche-download|
 
+   Sphinx "cartouche" extension
+
    :author:  Robert Smallshire
    :version: 1.1.2
    :release: 2013-10-11 06:53:22
@@ -69,6 +71,8 @@ Enhances features of Sphinx
    :extension-name:`numpydoc`
    |numpydoc-py_versions| |numpydoc-download|
 
+   Sphinx extension to support docstrings in Numpy format
+
    :author:  Pauli Virtanen and others
    :version: 0.5
    :release: 2014-06-08 20:14:59
@@ -86,6 +90,8 @@ Enhances features of Sphinx
 
    :extension-name:`orgtblfilter`
    |orgtblfilter-py_versions| |orgtblfilter-download|
+
+   A sphinx extension to pre-process orgtbl-mode tables to sphinx tables
 
    :author:  Diez B. Roggisch
    :version: 0.1
@@ -112,6 +118,8 @@ Enhances features of Sphinx
 
    :extension-name:`sphinx-classy-code`
    |sphinx-classy-code-py_versions| |sphinx-classy-code-download|
+
+   UNKNOWN
 
    :author:  Nathan Yergler
    :version: 0.1
@@ -147,6 +155,8 @@ Enhances features of Sphinx
    :extension-name:`sphinx-paramlinks`
    |sphinx-paramlinks-py_versions| |sphinx-paramlinks-download|
 
+   Allows param links in Sphinx function/method descriptions to be linkable
+
    :author:  Mike Bayer
    :version: 0.2.2
    :release: 2014-01-20 23:31:14
@@ -164,6 +174,8 @@ Enhances features of Sphinx
 
    :extension-name:`sphinxcontrib-css3image`
    |sphinxcontrib-css3image-py_versions| |sphinxcontrib-css3image-download|
+
+   Sphinx "css3image" extension
 
    :author:  Fabrice Salvaire
    :version: 0.1dev-20140921
@@ -183,6 +195,8 @@ Enhances features of Sphinx
    :extension-name:`sphinxcontrib-fancybox`
    |sphinxcontrib-fancybox-py_versions| |sphinxcontrib-fancybox-download|
 
+   Sphinx "fancybox" extension
+
    :author:  Tomek Czyż
    :version: 0.3.5
    :release: 2014-09-10 22:24:24
@@ -200,6 +214,8 @@ Enhances features of Sphinx
 
    :extension-name:`sphinxcontrib-getthecode`
    |sphinxcontrib-getthecode-py_versions| |sphinxcontrib-getthecode-download|
+
+   Sphinx "getthecode" extension
 
    :author:  Fabrice Salvaire
    :version: 0.1dev-20140921
@@ -219,6 +235,8 @@ Enhances features of Sphinx
    :extension-name:`sphinxcontrib-images`
    |sphinxcontrib-images-py_versions| |sphinxcontrib-images-download|
 
+   Sphinx "images" extension
+
    :author:  Tomasz Czyż
    :version: 0.4.1
    :release: 2014-09-10 23:08:15
@@ -236,6 +254,8 @@ Enhances features of Sphinx
 
    :extension-name:`sphinxcontrib-inlinesyntaxhighlight`
    |sphinxcontrib-inlinesyntaxhighlight-py_versions| |sphinxcontrib-inlinesyntaxhighlight-download|
+
+   Inline Syntax Highlighting for Sphinx
 
    :author:  Kay-Uwe (Kiwi) Lorenz
    :version: 0.2
@@ -255,6 +275,8 @@ Enhances features of Sphinx
    :extension-name:`sphinxcontrib-japanese-text-join`
    |sphinxcontrib-japanese-text-join-py_versions| |sphinxcontrib-japanese-text-join-download|
 
+   japanese-text-join
+
    :author:  Masaya SUZUKI
    :version: 0.1.0
    :release: 2013-03-27 12:03:47
@@ -273,6 +295,8 @@ Enhances features of Sphinx
    :extension-name:`sphinxcontrib-mockautodoc`
    |sphinxcontrib-mockautodoc-py_versions| |sphinxcontrib-mockautodoc-download|
 
+   Sphinx mocking autodoc extension
+
    :author:  Evgeniy Tatarkin
    :version: 0.0.1dev-20130518
    :release: 2013-05-18 11:51:17
@@ -290,6 +314,8 @@ Enhances features of Sphinx
 
    :extension-name:`sphinxcontrib-napoleon`
    |sphinxcontrib-napoleon-py_versions| |sphinxcontrib-napoleon-download|
+
+   Sphinx "napoleon" extension.
 
    :author:  Rob Ruana
    :version: 0.2.8
@@ -348,6 +374,8 @@ Enhances features of Sphinx
 
    :extension-name:`sphinxjp.themecore`
    |sphinxjp.themecore-py_versions| |sphinxjp.themecore-download|
+
+   A sphinx theme plugin support extension. #sphinxjp
 
    :author:  Takayuki SHIMIZUKAWA
    :version: 0.2.0

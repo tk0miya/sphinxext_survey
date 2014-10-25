@@ -27,6 +27,8 @@ Executes commands or codes, and takes the results to document
    :extension-name:`sphinxcontrib-autorun`
    |sphinxcontrib-autorun-py_versions| |sphinxcontrib-autorun-download|
 
+   Sphinx extension autorun
+
    :author:  Vadim Gubergrits
    :version: 0.1-20140415
    :release: 2014-04-15 17:40:11
@@ -44,6 +46,8 @@ Executes commands or codes, and takes the results to document
 
    :extension-name:`sphinxcontrib-autorun2`
    |sphinxcontrib-autorun2-py_versions| |sphinxcontrib-autorun2-download|
+
+   Sphinx extension autorun
 
    :author:  David Wolever
    :version: 0.1-20140415
@@ -63,6 +67,8 @@ Executes commands or codes, and takes the results to document
    :extension-name:`sphinxcontrib-jsdemo`
    |sphinxcontrib-jsdemo-py_versions| |sphinxcontrib-jsdemo-download|
 
+   HTML/Javascript Demo extension for Sphinx
+
    :author:  Kirill Simonov (Prometheus Research, LLC)
    :version: 0.1.1
    :release: 2013-03-01 00:46:24
@@ -80,6 +86,8 @@ Executes commands or codes, and takes the results to document
 
    :extension-name:`sphinxcontrib-jsoncall`
    |sphinxcontrib-jsoncall-py_versions| |sphinxcontrib-jsoncall-download|
+
+   Sphinx extension that adds a simple button to perform test calls to JSON based apis
 
    :author:  Alessandro Molina
    :version: 0.3
@@ -99,6 +107,8 @@ Executes commands or codes, and takes the results to document
    :extension-name:`sphinxcontrib-jsx`
    |sphinxcontrib-jsx-py_versions| |sphinxcontrib-jsx-download|
 
+   Sphinx JSX directive extension
+
    :author:  Prometheus Research, LLC
    :version: 0.2.0
    :release: 2014-08-04 21:08:40
@@ -116,6 +126,8 @@ Executes commands or codes, and takes the results to document
 
    :extension-name:`sphinxcontrib-programoutput`
    |sphinxcontrib-programoutput-py_versions| |sphinxcontrib-programoutput-download|
+
+   Sphinx extension to include program output
 
    :author:  Sebastian Wiesner
    :version: 0.8

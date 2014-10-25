@@ -11,6 +11,8 @@ Enables to output document as new format
    :extension-name:`hieroglyph`
    |hieroglyph-py_versions| |hieroglyph-download|
 
+   UNKNOWN
+
    :author:  Nathan Yergler
    :version: 0.6.5
    :release: 2014-03-02 00:03:22
@@ -28,6 +30,8 @@ Enables to output document as new format
 
    :extension-name:`sffms`
    |sffms-py_versions| |sffms-download|
+
+   Sffms-style LaTeX output for Sphinx
 
    :author:  Evan Goer
    :version: 0.9.4
@@ -79,6 +83,8 @@ Enables to output document as new format
    :extension-name:`sphinxcontrib-dashbuilder`
    |sphinxcontrib-dashbuilder-py_versions| |sphinxcontrib-dashbuilder-download|
 
+   Sphinx builder extension to generate a 'Documentation Set' for `dash API browser`.
+
    :author:  shimizukawa
    :version: 0.1.0
    :release: 2014-05-24 08:05:45
@@ -96,6 +102,8 @@ Enables to output document as new format
 
    :extension-name:`sphinxcontrib-docbookrestapi`
    |sphinxcontrib-docbookrestapi-py_versions| |sphinxcontrib-docbookrestapi-download|
+
+   Extension to Sphinx for generating REST API documentation for http://api.openstack.org/
 
    :author:  Cyril Roelandt
    :version: 0.2.1
@@ -123,6 +131,8 @@ Enables to output document as new format
    :extension-name:`sphinxcontrib-menesbuilder`
    |sphinxcontrib-menesbuilder-py_versions| |sphinxcontrib-menesbuilder-download|
 
+   menesbuilder is a Sphinx extension for menes PDF generates web application
+
    :author:  WAKAYAMA shirou
    :version: 0.3.1
    :release: 2014-04-09 11:13:27
@@ -140,6 +150,8 @@ Enables to output document as new format
 
    :extension-name:`sphinxcontrib-restbuilder`
    |sphinxcontrib-restbuilder-py_versions| |sphinxcontrib-restbuilder-download|
+
+   Sphinx extension to output reST files.
 
    :author:  Freek Dijkstra
    :version: 0.1

@@ -11,6 +11,8 @@ Generates documentation from source code or others
    :extension-name:`breathe`
    |breathe-py_versions| |breathe-download|
 
+   Sphinx Doxygen renderer
+
    :author:  Michael Jones
    :version: 3.1.0
    :release: 2014-09-07 09:34:48
@@ -28,6 +30,8 @@ Generates documentation from source code or others
 
    :extension-name:`collective.sphinx.autoatschema`
    |collective.sphinx.autoatschema-py_versions| |collective.sphinx.autoatschema-download|
+
+   Sphinx extension for archetypes schema
 
    :author:  Rok Garbas
    :version: 0.1
@@ -47,6 +51,8 @@ Generates documentation from source code or others
    :extension-name:`collective.sphinx.includedoc`
    |collective.sphinx.includedoc-py_versions| |collective.sphinx.includedoc-download|
 
+   Sphinx extension for including doctests
+
    :author:  Rok Garbas
    :version: 0.2
    :release: 2011-03-03 19:00:05
@@ -64,6 +70,8 @@ Generates documentation from source code or others
 
    :extension-name:`django-giza`
    |django-giza-py_versions| |django-giza-download|
+
+   Autodoc all modules from a Django project's INSTALLED_APPS for Sphinx
 
    :author:  Anentropic
    :version: 0.1.6
@@ -83,6 +91,8 @@ Generates documentation from source code or others
    :extension-name:`django-sphinx-autodoc`
    |django-sphinx-autodoc-py_versions| |django-sphinx-autodoc-download|
 
+   Autodoc all apps from a project to Sphinx
+
    :author:  Adrien Lemaire
    :version: 0.2
    :release: 2011-06-11 03:51:52
@@ -100,6 +110,8 @@ Generates documentation from source code or others
 
    :extension-name:`docit`
    |docit-py_versions| |docit-download|
+
+   Simple tools for sphinx autodoc to control whether members are documented or not.
 
    :author:  Brian Mearns
    :version: 1.0.0.2-r3
@@ -119,6 +131,8 @@ Generates documentation from source code or others
    :extension-name:`dqn`
    |dqn-py_versions| |dqn-download|
 
+   The dqn create ReST files for sphinx from source code
+
    :author:  TakesxiSximada
    :version: 0.2.0
    :release: 2013-10-21 12:47:10
@@ -136,6 +150,8 @@ Generates documentation from source code or others
 
    :extension-name:`gir2rst`
    |gir2rst-py_versions| |gir2rst-download|
+
+   ReST-based Sphinx documentation from GIR files
 
    :author:  Matthias Vogelgesang
    :version: 0.4
@@ -155,6 +171,8 @@ Generates documentation from source code or others
    :extension-name:`horae.sphinx.grok`
    |horae.sphinx.grok-py_versions| |horae.sphinx.grok-download|
 
+   Provides grok specific autodoc directives for sphinx
+
    :author:  Simon Kaeser
    :version: 1.0a1
    :release: 2012-01-16 12:05:06
@@ -172,6 +190,8 @@ Generates documentation from source code or others
 
    :extension-name:`motechjavasphinx`
    |motechjavasphinx-py_versions| |motechjavasphinx-download|
+
+   Sphinx extension for executing javasphinx to documenting Java projects
 
    :author:  Grameen Foundation
    :version: 0.6
@@ -199,6 +219,8 @@ Generates documentation from source code or others
    :extension-name:`repoze.sphinx.autointerface`
    |repoze.sphinx.autointerface-py_versions| |repoze.sphinx.autointerface-download|
 
+   Sphinx extension: auto-generates API docs from Zope interfaces
+
    :author:  Agendaless Consulting
    :version: 0.7.1
    :release: 2012-09-16 19:25:22
@@ -225,6 +247,8 @@ Generates documentation from source code or others
    :extension-name:`sphinx-argparse`
    |sphinx-argparse-py_versions| |sphinx-argparse-download|
 
+   Sphinx extension that automatically document argparse commands and options
+
    :author:  Aleksandr Rudakov
    :version: 0.1.13
    :release: 2014-08-18 20:45:25
@@ -242,6 +266,8 @@ Generates documentation from source code or others
 
    :extension-name:`sphinx-autodoc-annotation`
    |sphinx-autodoc-annotation-py_versions| |sphinx-autodoc-annotation-download|
+
+   Use Python 3 annotations in sphinx-enabled docstrings
 
    :author:  Virgil Dupras
    :version: 1.0
@@ -261,6 +287,8 @@ Generates documentation from source code or others
    :extension-name:`sphinxcontrib-autoanysrc`
    |sphinxcontrib-autoanysrc-py_versions| |sphinxcontrib-autoanysrc-download|
 
+   Sphinx extension with some autodoc features for any sources
+
    :author:  Evgeniy Tatarkin
    :version: 0.0.1dev-20141023
    :release: 2014-10-23 12:20:56
@@ -278,6 +306,8 @@ Generates documentation from source code or others
 
    :extension-name:`sphinxcontrib-autojs`
    |sphinxcontrib-autojs-py_versions| |sphinxcontrib-autojs-download|
+
+   Sphinx "Auto JavaScript Document" extension
 
    :author:  Heungsub Lee
    :version: 0.1dev-20110917
@@ -297,6 +327,8 @@ Generates documentation from source code or others
    :extension-name:`sphinxcontrib-autoprogram`
    |sphinxcontrib-autoprogram-py_versions| |sphinxcontrib-autoprogram-download|
 
+   Documenting CLI programs
+
    :author:  Hong Minhee
    :version: 0.1.1
    :release: 2014-04-22 13:37:05
@@ -314,6 +346,8 @@ Generates documentation from source code or others
 
    :extension-name:`sphinxcontrib-cmtinc`
    |sphinxcontrib-cmtinc-py_versions| |sphinxcontrib-cmtinc-download|
+
+   Include comments from source file Sphinx extension
 
    :author:  Vilibald W.
    :version: 0.1dev-20140417
@@ -333,6 +367,8 @@ Generates documentation from source code or others
    :extension-name:`sphinxcontrib-cqlengine`
    |sphinxcontrib-cqlengine-py_versions| |sphinxcontrib-cqlengine-download|
 
+   Sphinx "cqlengine" extension
+
    :author:  Kai Lautaportti
    :version: 0.1
    :release: 2013-11-26 17:36:21
@@ -350,6 +386,8 @@ Generates documentation from source code or others
 
    :extension-name:`sphinxcontrib-pecanwsme`
    |sphinxcontrib-pecanwsme-py_versions| |sphinxcontrib-pecanwsme-download|
+
+   Extension to Sphinx for documenting APIs built with Pecan and WSME
 
    :author:  Doug Hellmann
    :version: 0.8.0
@@ -369,6 +407,8 @@ Generates documentation from source code or others
    :extension-name:`sphinxcontrib-robotdoc`
    |sphinxcontrib-robotdoc-py_versions| |sphinxcontrib-robotdoc-download|
 
+   Sphinx extension to embed Robot Framework test cases and and user keywords into Sphinx documents
+
    :author:  Asko Soukka
    :version: 0.7.4
    :release: 2014-09-05 08:26:54
@@ -386,6 +426,8 @@ Generates documentation from source code or others
 
    :extension-name:`sphinxcontrib-zopeext`
    |sphinxcontrib-zopeext-py_versions| |sphinxcontrib-zopeext-download|
+
+   Sphinx extension zopeext
 
    :author:  Michael McNeil Forbes
    :version: 0.2.1
@@ -405,6 +447,8 @@ Generates documentation from source code or others
    :extension-name:`sphinxcontrib.infrae`
    |sphinxcontrib.infrae-py_versions| |sphinxcontrib.infrae-download|
 
+   Add-ons to sphinx to document Zope event and interfaces (and buildout configuration).
+
    :author:  Infrae
    :version: 1.0
    :release: 2012-04-30 15:09:38
@@ -422,6 +466,8 @@ Generates documentation from source code or others
 
    :extension-name:`tk.phpautodoc`
    |tk.phpautodoc-py_versions| |tk.phpautodoc-download|
+
+   sample implementation of phpdocumentor using sphinx
 
    :author:  Takeshi Komiya
    :version: 1.2.1

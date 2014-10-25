@@ -11,6 +11,8 @@ Joke extensions
    :extension-name:`sphinxcontrib-osaka`
    |sphinxcontrib-osaka-py_versions| |sphinxcontrib-osaka-download|
 
+   Sphinx extension osaka
+
    :author:  SHIBUKAWA Yoshiki
    :version: 0.1dev-20100410
    :release: 2010-04-10 08:43:17
@@ -29,6 +31,8 @@ Joke extensions
    :extension-name:`sphinxcontrib-spam`
    |sphinxcontrib-spam-py_versions| |sphinxcontrib-spam-download|
 
+   output spam! spam! spam!
+
    :author:  Tomohiro Nakamura
    :version: 0.4.2
    :release: 2012-05-28 16:55:58
@@ -46,6 +50,8 @@ Joke extensions
 
    :extension-name:`sphinxjp.usaturn`
    |sphinxjp.usaturn-py_versions| |sphinxjp.usaturn-download|
+
+   a sphinx extension to add new admonition named `usaturn`
 
    :author:  Takeshi Komiya
    :version: 0.2.0

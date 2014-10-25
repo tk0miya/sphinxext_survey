@@ -19,6 +19,8 @@ Inserts (generates) images to document
    :extension-name:`docutils_ext`
    |docutils_ext-py_versions| |docutils_ext-download|
 
+   DOCUTILS EXTENSIONS
+
    :author:  JBC
    :version: 0.2d
    :release: unknown
@@ -37,6 +39,8 @@ Inserts (generates) images to document
    :extension-name:`pptshape`
    |pptshape-py_versions| |pptshape-download|
 
+   Extract images from PowerPoint presentation files for Sphinx.
+
    :author:  Atsuo Ishimoto
    :version: 0.0.4
    :release: 2014-08-23 08:00:34
@@ -54,6 +58,8 @@ Inserts (generates) images to document
 
    :extension-name:`qubic.sphinx.graphvizinclude`
    |qubic.sphinx.graphvizinclude-py_versions| |qubic.sphinx.graphvizinclude-download|
+
+   Sphinx extension: graphviz generation of external dot files
 
    :author:  Nicolas Laurance
    :version: 0.1
@@ -89,6 +95,8 @@ Inserts (generates) images to document
    :extension-name:`sphinx-pyreverse`
    |sphinx-pyreverse-py_versions| |sphinx-pyreverse-download|
 
+   A simple sphinx extension to generate UML diagrams with pyreverse
+
    :author:  Dimitri Vorona
    :version: 0.0.12
    :release: 2012-10-08 21:42:01
@@ -106,6 +114,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinx-scruffy`
    |sphinx-scruffy-py_versions| |sphinx-scruffy-download|
+
+   Plug-in for Sphinx to render "scruffy" diagrams.
 
    :author:  Paylogic International
    :version: 1.0.0
@@ -125,6 +135,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-aafig`
    |sphinxcontrib-aafig-py_versions| |sphinxcontrib-aafig-download|
 
+   aafig Sphinx extension
+
    :author:  Leandro Lucarella
    :version: 1.0
    :release: 2009-11-16 00:25:37
@@ -142,6 +154,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-actdiag`
    |sphinxcontrib-actdiag-py_versions| |sphinxcontrib-actdiag-download|
+
+   Sphinx "actdiag" extension
 
    :author:  Takeshi KOMIYA
    :version: 0.8.0
@@ -161,6 +175,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-astah`
    |sphinxcontrib-astah-py_versions| |sphinxcontrib-astah-download|
 
+   Sphinx "astah" extension; embed diagram by using astah
+
    :author:  Takeshi KOMIYA
    :version: 0.1.0
    :release: 2014-08-22 08:16:43
@@ -178,6 +194,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-bayesnet`
    |sphinxcontrib-bayesnet-py_versions| |sphinxcontrib-bayesnet-download|
+
+   BayesNet extension for Sphinx
 
    :author:  Jaakko Luttinen
    :version: 0.1
@@ -197,6 +215,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-blockdiag`
    |sphinxcontrib-blockdiag-py_versions| |sphinxcontrib-blockdiag-download|
 
+   Sphinx "blockdiag" extension
+
    :author:  Takeshi KOMIYA
    :version: 1.5.0
    :release: 2014-10-17 05:46:55
@@ -214,6 +234,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-cacoo`
    |sphinxcontrib-cacoo-py_versions| |sphinxcontrib-cacoo-download|
+
+   Sphinx "cacoo" extension; embed diagram from cacoo
 
    :author:  Takeshi KOMIYA
    :version: 0.1.1
@@ -233,6 +255,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-eagle`
    |sphinxcontrib-eagle-py_versions| |sphinxcontrib-eagle-download|
 
+   Sphinx extension to include image or partlist of eagle schematic or board
+
    :author:  ponty
    :version: 0.0.8
    :release: 2012-12-04 19:01:54
@@ -250,6 +274,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-googlechart`
    |sphinxcontrib-googlechart-py_versions| |sphinxcontrib-googlechart-download|
+
+   Sphinx "googlechart" extension
 
    :author:  Takeshi KOMIYA
    :version: 0.2.0
@@ -269,6 +295,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-gravatar`
    |sphinxcontrib-gravatar-py_versions| |sphinxcontrib-gravatar-download|
 
+   Sphinx "gravatar" extension
+
    :author:  tell-k
    :version: 0.1.0
    :release: 2014-10-01 16:35:03
@@ -286,6 +314,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-gruffygen`
    |sphinxcontrib-gruffygen-py_versions| |sphinxcontrib-gruffygen-download|
+
+   Gruffy Sphinx extension
 
    :author:  Hideo Hattori
    :version: 0.1.1
@@ -305,6 +335,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-gtkwave`
    |sphinxcontrib-gtkwave-py_versions| |sphinxcontrib-gtkwave-download|
 
+   Sphinx extension to include screenshot of GTKWave
+
    :author:  ponty
    :version: 0.0.6
    :release: 2014-01-07 13:04:06
@@ -322,6 +354,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-libreoffice`
    |sphinxcontrib-libreoffice-py_versions| |sphinxcontrib-libreoffice-download|
+
+   Sphinx "libreoffice" extension
 
    :author:  Gerard Marull-Paretas
    :version: 0.2
@@ -341,6 +375,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-mscgen`
    |sphinxcontrib-mscgen-py_versions| |sphinxcontrib-mscgen-download|
 
+   mscgen Sphinx extension
+
    :author:  Leandro Lucarella
    :version: 0.4
    :release: 2009-11-21 23:11:15
@@ -358,6 +394,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-nwdiag`
    |sphinxcontrib-nwdiag-py_versions| |sphinxcontrib-nwdiag-download|
+
+   Sphinx "nwdiag" extension
 
    :author:  Takeshi KOMIYA
    :version: 0.9.0
@@ -377,6 +415,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-plantuml`
    |sphinxcontrib-plantuml-py_versions| |sphinxcontrib-plantuml-download|
 
+   Sphinx "plantuml" extension
+
    :author:  Yuya Nishihara
    :version: 0.5
    :release: 2014-10-05 09:11:12
@@ -394,6 +434,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-proceduralimage`
    |sphinxcontrib-proceduralimage-py_versions| |sphinxcontrib-proceduralimage-download|
+
+   proceduralimage Sphinx extension
 
    :author:  Timo Paulssen
    :version: 0.2
@@ -413,6 +455,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-programscreenshot`
    |sphinxcontrib-programscreenshot-py_versions| |sphinxcontrib-programscreenshot-download|
 
+   Sphinx extension to include screenshot of programs
+
    :author:  ponty
    :version: 0.0.5
    :release: 2012-12-04 19:14:19
@@ -430,6 +474,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-sadisplay`
    |sphinxcontrib-sadisplay-py_versions| |sphinxcontrib-sadisplay-download|
+
+   Sphinx "sadisplay" extension
 
    :author:  Evgeniy Tatarkin
    :version: 0.3.2dev-20130518
@@ -449,6 +495,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-sdedit`
    |sphinxcontrib-sdedit-py_versions| |sphinxcontrib-sdedit-download|
 
+   Sphinx extension for drawing sequence diagrams
+
    :author:  SHIBUKAWA Yoshiki
    :version: 0.3
    :release: 2009-11-09 16:05:53
@@ -466,6 +514,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-seqdiag`
    |sphinxcontrib-seqdiag-py_versions| |sphinxcontrib-seqdiag-download|
+
+   Sphinx "seqdiag" extension
 
    :author:  Takeshi KOMIYA
    :version: 0.8.0
@@ -485,6 +535,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-texfigure`
    |sphinxcontrib-texfigure-py_versions| |sphinxcontrib-texfigure-download|
 
+   TeX Figure extension for Sphinx
+
    :author:  Kirill Simonov (Prometheus Research, LLC)
    :version: 0.1.1
    :release: 2013-03-01 00:46:35
@@ -502,6 +554,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxcontrib-tikz`
    |sphinxcontrib-tikz-py_versions| |sphinxcontrib-tikz-download|
+
+   TikZ extension for Sphinx
 
    :author:  Christoph Reller
    :version: 0.4.1
@@ -521,6 +575,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-visio`
    |sphinxcontrib-visio-py_versions| |sphinxcontrib-visio-download|
 
+   Sphinx "visio" extension; embed MS-Visio file (.vsd, .vsdx)
+
    :author:  Takeshi KOMIYA
    :version: 1.1.0
    :release: 2014-09-24 12:37:23
@@ -539,6 +595,8 @@ Inserts (generates) images to document
    :extension-name:`sphinxcontrib-yuml`
    |sphinxcontrib-yuml-py_versions| |sphinxcontrib-yuml-download|
 
+   Sphinx extension for embedding yuml diagram in documentations
+
    :author:  UNKNOWN
    :version: 0.3.1
    :release: 2013-11-19 21:11:24
@@ -556,6 +614,8 @@ Inserts (generates) images to document
 
    :extension-name:`sphinxjp-tk0miya`
    |sphinxjp-tk0miya-py_versions| |sphinxjp-tk0miya-download|
+
+   Sphinx flicker API extention
 
    :author:  WAKAYAMA Shirou
    :version: 0.0.4

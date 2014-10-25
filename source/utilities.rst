@@ -11,6 +11,8 @@ Tools for Sphinx
    :extension-name:`Sphinx-PyPI-upload`
    |Sphinx-PyPI-upload-py_versions| |Sphinx-PyPI-upload-download|
 
+   setuptools command for uploading Sphinx documentation to PyPI
+
    :author:  Jannis Leidel
    :version: 0.2.1
    :release: 2009-08-25 13:47:21
@@ -28,6 +30,8 @@ Tools for Sphinx
 
    :extension-name:`doc8`
    |doc8-py_versions| |doc8-download|
+
+   Style checker for Sphinx (or other) RST documentation
 
    :author:  OpenStack
    :version: 0.5.0
@@ -47,6 +51,8 @@ Tools for Sphinx
    :extension-name:`sphinx-me`
    |sphinx-me-py_versions| |sphinx-me-download|
 
+   Wraps your README-only projects in a dynamic Sphinx shell for hosting on http://readthedocs.org
+
    :author:  Stephen McDonald
    :version: 0.3
    :release: 2014-08-03 01:33:13
@@ -64,6 +70,8 @@ Tools for Sphinx
 
    :extension-name:`sphinxcontrib-spelling`
    |sphinxcontrib-spelling-py_versions| |sphinxcontrib-spelling-download|
+
+   Sphinx "spelling" extension
 
    :author:  Doug Hellmann
    :version: 2.1.1

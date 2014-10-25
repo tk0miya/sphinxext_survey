@@ -11,6 +11,8 @@ Adds language-domains
    :extension-name:`catkin-sphinx`
    |catkin-sphinx-py_versions| |catkin-sphinx-download|
 
+   ROS package library
+
    :author:  Issac Trotts
    :version: 0.2.1
    :release: 2012-10-09 18:17:34
@@ -28,6 +30,8 @@ Adds language-domains
 
    :extension-name:`dragon-sphinx`
    |dragon-sphinx-py_versions| |dragon-sphinx-download|
+
+   Sphinx extensions for the Stupeflix tasks system
 
    :author:  Luper Rouch
    :version: 0.2
@@ -54,6 +58,8 @@ Adds language-domains
 
    :extension-name:`javasphinx`
    |javasphinx-py_versions| |javasphinx-download|
+
+   Sphinx extension for documenting Java projects
 
    :author:  Chris Thunes
    :version: 0.9.12
@@ -97,6 +103,8 @@ Adds language-domains
    :extension-name:`sphinx-http-domain`
    |sphinx-http-domain-py_versions| |sphinx-http-domain-download|
 
+   Sphinx domain to mark up RESTful web services in ReST
+
    :author:  David Zentgraf
    :version: 0.2
    :release: 2011-03-12 21:54:47
@@ -123,6 +131,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-adadomain`
    |sphinxcontrib-adadomain-py_versions| |sphinxcontrib-adadomain-download|
 
+   Sphinx "adadomain" extension
+
    :author:  Tero Koskinen
    :version: 0.1
    :release: 2013-06-12 18:33:10
@@ -140,6 +150,8 @@ Adds language-domains
 
    :extension-name:`sphinxcontrib-cldomain`
    |sphinxcontrib-cldomain-py_versions| |sphinxcontrib-cldomain-download|
+
+   Sphinx domain for Common Lisp
 
    :author:  Russell Sim
    :version: 0.10
@@ -159,6 +171,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-cmakedomain`
    |sphinxcontrib-cmakedomain-py_versions| |sphinxcontrib-cmakedomain-download|
 
+   Sphinx extension for CMake domain.
+
    :author:  Kay-Uwe (Kiwi) Lorenz
    :version: 0.2
    :release: 2013-10-24 04:12:00
@@ -176,6 +190,8 @@ Adds language-domains
 
    :extension-name:`sphinxcontrib-coffee`
    |sphinxcontrib-coffee-py_versions| |sphinxcontrib-coffee-download|
+
+   Sphinx extension to add CoffeeScript support
 
    :author:  Stephen Sugden
    :version: 0.2.1
@@ -195,6 +211,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-domaintools`
    |sphinxcontrib-domaintools-py_versions| |sphinxcontrib-domaintools-download|
 
+   Sphinx extension for easy domain creation.
+
    :author:  Kay-Uwe (Kiwi) Lorenz
    :version: 0.1
    :release: 2013-10-24 04:07:12
@@ -212,6 +230,8 @@ Adds language-domains
 
    :extension-name:`sphinxcontrib-dqndomain`
    |sphinxcontrib-dqndomain-py_versions| |sphinxcontrib-dqndomain-download|
+
+   Sphinx dqn extension
 
    :author:  TakesxiSximada
    :version: 0.1.0
@@ -231,6 +251,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-emacs`
    |sphinxcontrib-emacs-py_versions| |sphinxcontrib-emacs-download|
 
+   Emacs documentation support for Sphinx
+
    :author:  Sebastian Wiesner
    :version: 0.2.1
    :release: 2014-08-08 13:09:21
@@ -248,6 +270,8 @@ Adds language-domains
 
    :extension-name:`sphinxcontrib-erlangdomain`
    |sphinxcontrib-erlangdomain-py_versions| |sphinxcontrib-erlangdomain-download|
+
+   Sphinx extension sphinxcontrib-erlangdomain
 
    :author:  SHIBUKAWA Yoshiki
    :version: 0.1dev-20100827
@@ -267,6 +291,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-golangdomain`
    |sphinxcontrib-golangdomain-py_versions| |sphinxcontrib-golangdomain-download|
 
+   Sphinx extension sphinxcontrib-golangdomain
+
    :author:  Yoshifumi YAMAGUCHI
    :version: 0.1.3dev
    :release: 2013-01-06 12:05:56
@@ -284,6 +310,8 @@ Adds language-domains
 
    :extension-name:`sphinxcontrib-httpdomain`
    |sphinxcontrib-httpdomain-py_versions| |sphinxcontrib-httpdomain-download|
+
+   Sphinx domain for HTTP APIs
 
    :author:  Hong Minhee
    :version: 1.3.0
@@ -303,6 +331,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-jinjadomain`
    |sphinxcontrib-jinjadomain-py_versions| |sphinxcontrib-jinjadomain-download|
 
+   Jinja domain for jinja templates
+
    :author:  Jaka Hudoklin
    :version: 0.5.1
    :release: 2012-07-17 22:45:07
@@ -320,6 +350,8 @@ Adds language-domains
 
    :extension-name:`sphinxcontrib-lassodomain`
    |sphinxcontrib-lassodomain-py_versions| |sphinxcontrib-lassodomain-download|
+
+   Lasso domain for Sphinx
 
    :author:  Eric Knibbe
    :version: 0.2
@@ -339,6 +371,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-makedomain`
    |sphinxcontrib-makedomain-py_versions| |sphinxcontrib-makedomain-download|
 
+   Sphinx Make Domain Extension
+
    :author:  Kay-Uwe (Kiwi) Lorenz
    :version: 0.1.1
    :release: 2013-10-24 04:09:02
@@ -356,6 +390,8 @@ Adds language-domains
 
    :extension-name:`sphinxcontrib-matlabdomain`
    |sphinxcontrib-matlabdomain-py_versions| |sphinxcontrib-matlabdomain-download|
+
+   Sphinx "matlabdomain" extension
 
    :author:  Mark Mikofski
    :version: 0.2.5
@@ -375,6 +411,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-operationdomain`
    |sphinxcontrib-operationdomain-py_versions| |sphinxcontrib-operationdomain-download|
 
+   Sphinx extension sphinxcontrib-operationdomain
+
    :author:  togakushi
    :version: 0.0.2dev-20130127
    :release: 2013-01-27 08:06:31
@@ -392,6 +430,8 @@ Adds language-domains
 
    :extension-name:`sphinxcontrib-phpdomain`
    |sphinxcontrib-phpdomain-py_versions| |sphinxcontrib-phpdomain-download|
+
+   Sphinx "phpdomain" extension
 
    :author:  Mark Story
    :version: 0.1.4
@@ -411,6 +451,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-scaladomain`
    |sphinxcontrib-scaladomain-py_versions| |sphinxcontrib-scaladomain-download|
 
+   Sphinx domain for Scala APIs
+
    :author:  Georges Discry
    :version: 0.1a1
    :release: 2012-03-05 19:29:14
@@ -429,6 +471,8 @@ Adds language-domains
    :extension-name:`sphinxcontrib-specdomain`
    |sphinxcontrib-specdomain-py_versions| |sphinxcontrib-specdomain-download|
 
+   Sphinx "specdomain" extension
+
    :author:  Pete Jemian
    :version: 1.04.02
    :release: 2014-03-11 18:55:53
@@ -446,6 +490,8 @@ Adds language-domains
 
    :extension-name:`sphinxcontrib-waspdomain`
    |sphinxcontrib-waspdomain-py_versions| |sphinxcontrib-waspdomain-download|
+
+   Sphinx extension for Wasp domain
 
    :author:  MNMLSTC
    :version: 0.1

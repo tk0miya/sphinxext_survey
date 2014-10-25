@@ -11,6 +11,8 @@ Integrates with other documents
    :extension-name:`TracSphinx`
    |TracSphinx-py_versions| |TracSphinx-download|
 
+   Sphinx plugin for Trac 0.11
+
    :author:  Florent PIGOUT
    :version: 0.2.1
    :release: 2010-01-31 21:23:22
@@ -37,6 +39,8 @@ Integrates with other documents
    :extension-name:`sphinxcontrib-doxylink`
    |sphinxcontrib-doxylink-py_versions| |sphinxcontrib-doxylink-download|
 
+   Sphinx extension for linking to Doxygen documentation.
+
    :author:  Matt Williams
    :version: 1.3
    :release: 2012-09-13 10:59:34
@@ -54,6 +58,8 @@ Integrates with other documents
 
    :extension-name:`sphinxcontrib-epydoc`
    |sphinxcontrib-epydoc-py_versions| |sphinxcontrib-epydoc-download|
+
+   Epydoc cross-referencing for Sphinx
 
    :author:  Sebastian Wiesner
    :version: 0.6

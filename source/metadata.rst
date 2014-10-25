@@ -19,6 +19,8 @@ Enables to mark up metadata to document
    :extension-name:`sphinxcontrib-gen_node`
    |sphinxcontrib-gen_node-py_versions| |sphinxcontrib-gen_node-download|
 
+   Sphinx generic nodes "todo like" extension
+
    :author:  Jean-Philippe Camguilhem
    :version: 0.1-20131031
    :release: 2013-10-31 15:27:08
@@ -36,6 +38,8 @@ Enables to mark up metadata to document
 
    :extension-name:`sphinxcontrib-microdata`
    |sphinxcontrib-microdata-py_versions| |sphinxcontrib-microdata-download|
+
+   Sphinx "microdata" extension
 
    :author:  Fabrice Salvaire
    :version: 0.1dev-20140921
@@ -55,6 +59,8 @@ Enables to mark up metadata to document
    :extension-name:`sphinxcontrib-requirements`
    |sphinxcontrib-requirements-py_versions| |sphinxcontrib-requirements-download|
 
+   Sphinx "requirements" extension
+
    :author:  Andrey Mikhaylenko
    :version: 0.1dev-20110502
    :release: 2011-05-02 07:00:44
@@ -72,6 +78,8 @@ Enables to mark up metadata to document
 
    :extension-name:`sphinxcontrib-taglist`
    |sphinxcontrib-taglist-py_versions| |sphinxcontrib-taglist-download|
+
+   Sphinx "taglist" extension
 
    :author:  Tomek Czyż
    :version: 0.2

@@ -11,6 +11,8 @@ miscellaneous extensions
    :extension-name:`abjad`
    |abjad-py_versions| |abjad-download|
 
+   Abjad is a Python API for Formalized Score Control.
+
    :author:  Trevor Bača, Josiah Wolf Oberholtzer, Víctor Adán
    :version: 2.15
    :release: 2014-08-08 14:36:20
@@ -37,6 +39,8 @@ miscellaneous extensions
    :extension-name:`metapensiero.sphinx.patchdb`
    |metapensiero.sphinx.patchdb-py_versions| |metapensiero.sphinx.patchdb-download|
 
+   Extract scripts from a reST document and apply them in order.
+
    :author:  Lele Gaifax
    :version: 1.2.1
    :release: 2014-07-02 07:28:08
@@ -54,6 +58,8 @@ miscellaneous extensions
 
    :extension-name:`nose-sphinx-doc`
    |nose-sphinx-doc-py_versions| |nose-sphinx-doc-download|
+
+   Generate sphinx documentation for tests.
 
    :author:  Maciej Dziardziel
    :version: 0.1
@@ -73,6 +79,8 @@ miscellaneous extensions
    :extension-name:`rstspreadsheet`
    |rstspreadsheet-py_versions| |rstspreadsheet-download|
 
+   Add the `spreadsheet` directive to reStructuredText for Docutils and Sphinx
+
    :author:  Takafumi Arakaki
    :version: 0.1.2
    :release: 2011-06-10 22:03:17
@@ -90,6 +98,8 @@ miscellaneous extensions
 
    :extension-name:`rusty`
    |rusty-py_versions| |rusty-download|
+
+   A collection of Sphinx extensions
 
    :author:  Juha Mustonen
    :version: 0.3.1
@@ -117,6 +127,8 @@ miscellaneous extensions
    :extension-name:`sbo-sphinx`
    |sbo-sphinx-py_versions| |sbo-sphinx-download|
 
+   Sphinx configuration and libraries for Safari Books Online documentation
+
    :author:  Jeremy Bowman
    :version: 2.0.2
    :release: 2014-03-26 17:06:56
@@ -134,6 +146,8 @@ miscellaneous extensions
 
    :extension-name:`seqansphinx`
    |seqansphinx-py_versions| |seqansphinx-download|
+
+   Sphinx extension for SeqAn Sphinx document
 
    :author:  Manuel Holtgrewe
    :version: 0.2.2
@@ -153,6 +167,8 @@ miscellaneous extensions
    :extension-name:`sphinx-prompt`
    |sphinx-prompt-py_versions| |sphinx-prompt-download|
 
+   Sphinx directive to add unselectable prompt
+
    :author:  Stéphane Brunner
    :version: 0.2.2
    :release: 2014-01-17 13:25:53
@@ -170,6 +186,8 @@ miscellaneous extensions
 
    :extension-name:`sphinxcontrib-clearquest`
    |sphinxcontrib-clearquest-py_versions| |sphinxcontrib-clearquest-download|
+
+   Sphinx "clearquest" extension
 
    :author:  Robin Jarry
    :version: 0.6
@@ -189,6 +207,8 @@ miscellaneous extensions
    :extension-name:`sphinxcontrib-inheritance`
    |sphinxcontrib-inheritance-py_versions| |sphinxcontrib-inheritance-download|
 
+   Documentation inheritance functionality for Sphinx
+
    :author:  NaN·tic
    :version: 0.7.1
    :release: 2014-10-22 09:32:15
@@ -206,6 +226,8 @@ miscellaneous extensions
 
    :extension-name:`sphinxcontrib-paverutils`
    |sphinxcontrib-paverutils-py_versions| |sphinxcontrib-paverutils-download|
+
+   Sphinx/Paver integration
 
    :author:  Doug Hellmann
    :version: 1.6
@@ -225,6 +247,8 @@ miscellaneous extensions
    :extension-name:`sphinxcontrib-rawfiles`
    |sphinxcontrib-rawfiles-py_versions| |sphinxcontrib-rawfiles-download|
 
+   Sphinx "rawfiles" extension
+
    :author:  Takumi IINO
    :version: 0.1.1
    :release: 2012-07-16 13:37:51
@@ -242,6 +266,8 @@ miscellaneous extensions
 
    :extension-name:`sphinxcontrib-robotframework`
    |sphinxcontrib-robotframework-py_versions| |sphinxcontrib-robotframework-download|
+
+   Robot Framework extension for Sphinx
 
    :author:  Asko Soukka
    :version: 0.4.4
@@ -261,6 +287,8 @@ miscellaneous extensions
    :extension-name:`sphinxcontrib-testbuild`
    |sphinxcontrib-testbuild-py_versions| |sphinxcontrib-testbuild-download|
 
+   Test Sphinx builds with Python tests.
+
    :author:  Benoît Bryon
    :version: 0.1.3
    :release: 2013-06-04 14:50:33
@@ -278,6 +306,8 @@ miscellaneous extensions
 
    :extension-name:`sphinxcontrib-webmocks`
    |sphinxcontrib-webmocks-py_versions| |sphinxcontrib-webmocks-download|
+
+   Sphinx "webmocks" extension
 
    :author:  Takeshi Komiya
    :version: 0.1.0
@@ -305,6 +335,8 @@ miscellaneous extensions
    :extension-name:`sphinxjp.shibukawa`
    |sphinxjp.shibukawa-py_versions| |sphinxjp.shibukawa-download|
 
+   Sphinx calendar extension
+
    :author:  Takeshi KOMIYA
    :version: 0.1.6
    :release: 2014-06-16 04:10:28
@@ -323,6 +355,8 @@ miscellaneous extensions
    :extension-name:`sphinxmapxrefrole`
    |sphinxmapxrefrole-py_versions| |sphinxmapxrefrole-download|
 
+   Sphinx mapping role
+
    :author:  Patrick Snape
    :version: 0.1.0
    :release: 2014-05-01 11:26:33
@@ -340,6 +374,8 @@ miscellaneous extensions
 
    :extension-name:`trydoc`
    |trydoc-py_versions| |trydoc-download|
+
+   Tryton markup for Sphinx
 
    :author:  NaN Projectes de Programari Lliure, S.L.
    :version: 0.7.1

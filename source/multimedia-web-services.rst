@@ -19,6 +19,8 @@ Inserts multimedia contents and contents from Web services
    :extension-name:`sphinxcontrib-embedly`
    |sphinxcontrib-embedly-py_versions| |sphinxcontrib-embedly-download|
 
+   Sphinx "embedly" extension
+
    :author:  Jannis Leidel
    :version: 0.2
    :release: 2014-02-23 18:12:07
@@ -36,6 +38,8 @@ Inserts multimedia contents and contents from Web services
 
    :extension-name:`sphinxcontrib-googlemaps`
    |sphinxcontrib-googlemaps-py_versions| |sphinxcontrib-googlemaps-download|
+
+   Sphinx "googlemaps" extension
 
    :author:  Takeshi KOMIYA
    :version: 0.1.0
@@ -55,6 +59,8 @@ Inserts multimedia contents and contents from Web services
    :extension-name:`sphinxcontrib-nicovideo`
    |sphinxcontrib-nicovideo-py_versions| |sphinxcontrib-nicovideo-download|
 
+   Sphinx "nicovideo" extension
+
    :author:  Takeshi KOMIYA
    :version: 0.1.0
    :release: 2011-12-07 14:55:47
@@ -72,6 +78,8 @@ Inserts multimedia contents and contents from Web services
 
    :extension-name:`sphinxcontrib-slide`
    |sphinxcontrib-slide-py_versions| |sphinxcontrib-slide-download|
+
+   Sphinx "slide" extension
 
    :author:  Takeshi KOMIYA
    :version: 0.3.0
@@ -91,6 +99,8 @@ Inserts multimedia contents and contents from Web services
    :extension-name:`sphinxcontrib-swf`
    |sphinxcontrib-swf-py_versions| |sphinxcontrib-swf-download|
 
+   Sphinx "swf" extension
+
    :author:  Kay-Uwe (Kiwi) Lorenz
    :version: 0.3
    :release: 2013-08-25 04:35:42
@@ -108,6 +118,8 @@ Inserts multimedia contents and contents from Web services
 
    :extension-name:`sphinxcontrib.gist`
    |sphinxcontrib.gist-py_versions| |sphinxcontrib.gist-download|
+
+   embedding gist to sphinx
 
    :author:  @shomah4a
    :version: 0.1.0
@@ -127,6 +139,8 @@ Inserts multimedia contents and contents from Web services
    :extension-name:`sphinxcontrib.twitter`
    |sphinxcontrib.twitter-py_versions| |sphinxcontrib.twitter-download|
 
+   embedding twitter's tweet in sphinx
+
    :author:  @shomah4a
    :version: 0.3.0
    :release: 2013-11-16 02:51:35
@@ -144,6 +158,8 @@ Inserts multimedia contents and contents from Web services
 
    :extension-name:`sphinxcontrib.youtube`
    |sphinxcontrib.youtube-py_versions| |sphinxcontrib.youtube-download|
+
+   embedding gist to sphinx
 
    :author:  @shomah4a
    :version: 0.1.2

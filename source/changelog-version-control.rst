@@ -11,6 +11,8 @@ Enables to mark up changelog, history and version info
    :extension-name:`changelog`
    |changelog-py_versions| |changelog-download|
 
+   Provides simple Sphinx markup to render changelog displays.
+
    :author:  Mike Bayer
    :version: 0.3.4
    :release: 2014-01-11 18:10:35
@@ -28,6 +30,8 @@ Enables to mark up changelog, history and version info
 
    :extension-name:`collective.sphinx.includechangelog`
    |collective.sphinx.includechangelog-py_versions| |collective.sphinx.includechangelog-download|
+
+   Include changelog extracted from egg information  into sphinx documentation.
 
    :author:  Jean Francois Roche
    :version: 0.1.1
@@ -47,6 +51,8 @@ Enables to mark up changelog, history and version info
    :extension-name:`releases`
    |releases-py_versions| |releases-download|
 
+   A Sphinx extension for changelog manipulation
+
    :author:  Jeff Forcier
    :version: 0.7.0
    :release: 2014-09-05 02:21:57
@@ -64,6 +70,8 @@ Enables to mark up changelog, history and version info
 
    :extension-name:`sphinx-git`
    |sphinx-git-py_versions| |sphinx-git-download|
+
+   git Changelog for Sphinx
 
    :author:  Daniel Watkins
    :version: 8
@@ -83,6 +91,8 @@ Enables to mark up changelog, history and version info
    :extension-name:`sphinx-patchqueue`
    |sphinx-patchqueue-py_versions| |sphinx-patchqueue-download|
 
+   Sphinx extension for embedding sequences of file alterations
+
    :author:  Xavier Morel
    :version: 0.4.0
    :release: 2014-08-07 09:05:22
@@ -100,6 +110,8 @@ Enables to mark up changelog, history and version info
 
    :extension-name:`sphinxcontrib-bitbucket`
    |sphinxcontrib-bitbucket-py_versions| |sphinxcontrib-bitbucket-download|
+
+   Sphinx/BitBucket integration
 
    :author:  Doug Hellmann
    :version: 1.0
@@ -119,6 +131,8 @@ Enables to mark up changelog, history and version info
    :extension-name:`sphinxcontrib-github`
    |sphinxcontrib-github-py_versions| |sphinxcontrib-github-download|
 
+   github directives and roles for sphinx
+
    :author:  Tony Narlock
    :version: 0.1.3
    :release: 2013-11-16 14:37:02
@@ -137,6 +151,8 @@ Enables to mark up changelog, history and version info
    :extension-name:`sphinxcontrib-issuetracker`
    |sphinxcontrib-issuetracker-py_versions| |sphinxcontrib-issuetracker-download|
 
+   Sphinx integration with different issuetrackers
+
    :author:  Sebastian Wiesner
    :version: 0.11
    :release: 2013-01-17 11:21:34
@@ -154,6 +170,8 @@ Enables to mark up changelog, history and version info
 
    :extension-name:`sphinxcontrib-mercurial`
    |sphinxcontrib-mercurial-py_versions| |sphinxcontrib-mercurial-download|
+
+   Sphinx "mercurial" extension
 
    :author:  Takayuki KONDO
    :version: 0.2

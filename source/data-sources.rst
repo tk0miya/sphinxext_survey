@@ -11,6 +11,8 @@ Generates tables from database or others
    :extension-name:`sphinxcontrib-exceltable`
    |sphinxcontrib-exceltable-py_versions| |sphinxcontrib-exceltable-download|
 
+   Support for including Excel spreadsheets into Sphinx documents
+
    :author:  Juha Mustonen
    :version: 0.1
    :release: 2011-08-28 20:33:48
@@ -29,6 +31,8 @@ Generates tables from database or others
    :extension-name:`sphinxcontrib-htsql`
    |sphinxcontrib-htsql-py_versions| |sphinxcontrib-htsql-download|
 
+   HTSQL extension for Sphinx
+
    :author:  Kirill Simonov (Prometheus Research, LLC)
    :version: 0.1.2
    :release: 2013-03-21 15:26:21
@@ -46,6 +50,8 @@ Generates tables from database or others
 
    :extension-name:`sphinxcontrib-sqltable`
    |sphinxcontrib-sqltable-py_versions| |sphinxcontrib-sqltable-download|
+
+   Sphinx "SQLTable" extension
 
    :author:  Doug Hellmann
    :version: 1.0

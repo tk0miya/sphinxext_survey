@@ -11,6 +11,8 @@ Enhances search features of Sphinx
    :extension-name:`dipus`
    |dipus-py_versions| |dipus-download|
 
+   Dipus is a simple full-text search server using Whoosh for Sphinx
+
    :author:  WAKAYAMA shirou
    :version: 0.0.5
    :release: 2012-09-05 09:14:27
@@ -29,6 +31,8 @@ Enhances search features of Sphinx
    :extension-name:`sphinxcontrib-findanything`
    |sphinxcontrib-findanything-py_versions| |sphinxcontrib-findanything-download|
 
+   Sphinx "FindAnything" extension
+
    :author:  Kay-Uwe (Kiwi) Lorenz
    :version: 0.2.5
    :release: 2014-03-13 03:31:37
@@ -46,6 +50,8 @@ Enhances search features of Sphinx
 
    :extension-name:`sphinxcontrib-whoosh`
    |sphinxcontrib-whoosh-py_versions| |sphinxcontrib-whoosh-download|
+
+   Whoosh Sphinx extension
 
    :author:  Pauli Virtanen
    :version: 0.1
