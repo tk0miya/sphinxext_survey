@@ -1,22 +1,26 @@
-.. Survey of Sphinx extensions documentation master file, created by
-   sphinx-quickstart on Sat Oct 25 11:01:20 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Survey of Sphinx extensions
+===========================
 
-Welcome to Survey of Sphinx extensions's documentation!
-=======================================================
-
-Contents:
+This is list of Sphinx extensions at October, 2014.
 
 .. toctree::
    :maxdepth: 2
 
+   autodoc
+   builders
+   changelog-version-control
+   data-sources
+   domains
+   enhancement
+   execute-result
+   images
+   integrations
+   metadata
+   multimedia-web-services
+   roles
+   search
+   thesis-latex
+   utilities
+   website-blogs
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+This list is made and categorized by @tk0miya.

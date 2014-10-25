@@ -1,0 +1,45 @@
+.sphinx-extension {
+    border-radius: 12px;            /* CSS3 */
+    -webkit-border-radius: 12px;    /* Safari,Google Chrome */
+    -moz-border-radius: 12px;       /* Firefox */
+    border: solid 1px;
+    padding: 6px;
+    margin-bottom: 12px;
+}
+
+.sphinx-extension.pypi:before {
+    content: url("https://www.python.org/static/community_logos/python-powered-h-50x65.png");
+    text-align: center;
+    width: 80px;
+    height: 128px;
+    float: left;
+}
+
+.sphinx-extension.github:before {
+    content: url("GitHub-Mark-64px.png");
+    text-align: center;
+    width: 80px;
+    height: 128px;
+    float: left;
+}
+
+.sphinx-extension.bitbucket:before {
+    content: url("bitbucket-logo-62x62.png");
+    text-align: center;
+    width: 80px;
+    height: 128px;
+    float: left;
+}
+
+.sphinx-extension.misc:before {
+    content: '';
+    text-align: center;
+    width: 80px;
+    height: 128px;
+    float: left;
+}
+
+.extension-name {
+    font-size: large;
+    font-weight: bold;
+}

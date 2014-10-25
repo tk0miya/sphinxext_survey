@@ -1,0 +1,226 @@
+name	URL	published at	category	notes
+breathe	https://pypi.python.org/pypi/breathe	PyPI	autodoc	read and render Doxygen xml output
+cartouche	https://pypi.python.org/pypi/cartouche	PyPI	enhancement	support google style docstrings
+collective.sphinx.autoatschema	https://pypi.python.org/pypi/collective.sphinx.autoatschema	PyPI	autodoc	Archetypes schemas
+collective.sphinx.includedoc	https://pypi.python.org/pypi/collective.sphinx.includedoc	PyPI	autodoc	for including doctests
+django-giza	https://pypi.python.org/pypi/django-giza	PyPI	autodoc	autodoc for django projects
+django-sphinx-autodoc	https://pypi.python.org/pypi/django-sphinx-autodoc	PyPI	autodoc	autodoc for django projects
+docit	https://pypi.python.org/pypi/docit	PyPI	autodoc	controll autodoc or not by decorator
+dqn	https://pypi.python.org/pypi/dqn	PyPI	autodoc	create ReST files for sphinx from source code
+gir2rst	https://pypi.python.org/pypi/gir2rst	PyPI	autodoc	create Sphinx documentation from GObject-Introspection files.
+horae.sphinx.grok	https://pypi.python.org/pypi/horae.sphinx.grok	PyPI	autodoc	autodoc directives for grok projects
+motechjavasphinx	https://pypi.python.org/pypi/motechjavasphinx	PyPI	autodoc	invoke javasphinx on build docs
+plot2rst	http://tonysyu.github.io/mpltools/auto_examples/sphinx/plot_plot2rst.html	others	autodoc	converts a normal python file into reStructuredText. All strings in the python file are converted into regular reStructuredText, while all python code is converted into code blocks.
+repoze.sphinx.autointerface	https://pypi.python.org/pypi/repoze.sphinx.autointerface	PyPI	autodoc	auto-generates API docs from Zope interfaces
+sphinx-api-any	https://github.com/tlamadon/sphinx-api-any	github	autodoc	extracts content from source files into rst files
+sphinx-argparse	https://pypi.python.org/pypi/sphinx-argparse	PyPI	autodoc	autodoc for argparse
+sphinx-autodoc-annotation	https://pypi.python.org/pypi/sphinx-autodoc-annotation	PyPI	autodoc	Enhance autodoc; refer functional annotations
+sphinxcontrib-autojs	https://pypi.python.org/pypi/sphinxcontrib-autojs	PyPI	autodoc	include docstring in JS
+sphinxcontrib-autoprogram	https://pypi.python.org/pypi/sphinxcontrib-autoprogram	PyPI	autodoc	autodoc for argparse
+sphinxcontrib-cmtinc	https://pypi.python.org/pypi/sphinxcontrib-cmtinc	PyPI	autodoc	include comments (starts with '/**') from source
+sphinxcontrib-cqlengine	https://pypi.python.org/pypi/sphinxcontrib-cqlengine	PyPI	autodoc	embed structure of sqlengine models
+sphinxcontrib-pecanwsme	https://pypi.python.org/pypi/sphinxcontrib-pecanwsme	PyPI	autodoc	docs for built with Pecan and WSME
+sphinxcontrib-robotdoc	https://pypi.python.org/pypi/sphinxcontrib-robotdoc	PyPI	autodoc	insert Robot Framework test suites, test cases, or user keywords
+sphinxcontrib-zopeext	https://pypi.python.org/pypi/sphinxcontrib-zopeext	PyPI	autodoc	autodoc for zope interface
+sphinxcontrib.infrae	https://pypi.python.org/pypi/sphinxcontrib.infrae	PyPI	autodoc	Zope event and interfaces
+tk.phpautodoc	https://pypi.python.org/pypi/tk.phpautodoc	PyPI	autodoc	autodoc for phpdoc
+hieroglyph	https://pypi.python.org/pypi/hieroglyph	PyPI	builders	HTML5 slides builder
+sffms	https://pypi.python.org/pypi/sffms	PyPI	builders	sffms builder; sffms is a LaTeX document class for typesetting fiction manuscripts
+sphinx-behat	https://github.com/dantleech/sphinx-behat	github	builders	behat builder and roles
+sphinx-contrib/context	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	builders	ConTeXt builder
+sphinx-contrib/omegat	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	builders	OmegaT builder
+sphinx-docxbuilder	https://bitbucket.org/haraisao/sphinx-docxbuilder/	bitbucket	builders	docx builder
+sphinxcontrib-dashbuilder	https://pypi.python.org/pypi/sphinxcontrib-dashbuilder	PyPI	builders	dash builder
+sphinxcontrib-docbookrestapi	https://pypi.python.org/pypi/sphinxcontrib-docbookrestapi	PyPI	builders	DocBook builder
+sphinxcontrib-docxbuilder	https://bitbucket.org/shimizukawa/sphinxcontrib-docxbuilder/src	bitbucket	builders	
+sphinxcontrib-menesbuilder	https://pypi.python.org/pypi/sphinxcontrib-menesbuilder	PyPI	builders	menes-PDF generator (PDF generation service)
+sphinxcontrib-restbuilder	https://pypi.python.org/pypi/sphinxcontrib-restbuilder	PyPI	builders	reST builder
+changelog	https://pypi.python.org/pypi/changelog	PyPI	changelog/version-control	changelog directives
+collective.sphinx.includechangelog	https://pypi.python.org/pypi/collective.sphinx.includechangelog	PyPI	changelog/version-control	Include changelog extracted from egg information
+releases	https://pypi.python.org/pypi/releases	PyPI	changelog/version-control	release roles
+sphinx-git	https://pypi.python.org/pypi/sphinx-git	PyPI	changelog/version-control	include git changelog
+sphinx-patchqueue	https://pypi.python.org/pypi/sphinx-patchqueue	PyPI	changelog/version-control	include mercurial patches or queue
+sphinxcontrib-bitbucket	https://pypi.python.org/pypi/sphinxcontrib-bitbucket	PyPI	changelog/version-control	roles for bitbucket issues and changesets
+sphinxcontrib-github	https://pypi.python.org/pypi/sphinxcontrib-github	PyPI	changelog/version-control	roles for github pull requests and repos
+sphinxcontrib-issuetracker	https://pypi.python.org/pypi/sphinxcontrib-issuetracker	PyPI	changelog/version-control	issue role supports github, bitbucket and so on
+sphinxcontrib-mercurial	https://pypi.python.org/pypi/sphinxcontrib-mercurial	PyPI	changelog/version-control	insert changelog of mercurial
+sphinxcontrib-releasenotes	https://github.com/gosyujin/sphinxcontrib-releasenotes	github	changelog/version-control	merge git log and reST markups into releasenote
+sphinxcontrib-exceltable	https://pypi.python.org/pypi/sphinxcontrib-exceltable	PyPI	data-sources	insert table using xls file
+sphinxcontrib-htsql	https://pypi.python.org/pypi/sphinxcontrib-htsql	PyPI	data-sources	execute HTSQL and include its result
+sphinxcontrib-sqltable	https://pypi.python.org/pypi/sphinxcontrib-sqltable	PyPI	data-sources	build table from database
+catkin-sphinx	https://pypi.python.org/pypi/catkin-sphinx	PyPI	domains	cmake domain and catkin theme
+dragon-sphinx	https://pypi.python.org/pypi/dragon-sphinx	PyPI	domains	task domain
+ext_anon_domain.py	https://gist.github.com/shimizukawa/4181015	gist	domains	Anonymous domain
+javasphinx	https://pypi.python.org/pypi/javasphinx/	PyPI	domains	java domain and autodoc for java
+sphinx-contrib/rubydomain	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	domains	Ruby domain
+sphinx-eldomain	https://github.com/tkf/sphinx-eldomain	github	domains	Emacs Lisp domain
+sphinx-fortran-extension	https://github.com/paulromano/sphinx-fortran-extension	github	domains	Fortran domain
+sphinx-http-domain	https://pypi.python.org/pypi/sphinx-http-domain	PyPI	domains	HTTP domain (for RESTful API docs)
+sphinx-php	https://github.com/fabpot/sphinx-php	github	domains	PHP domain and helper directives
+sphinxcontrib-adadomain	https://pypi.python.org/pypi/sphinxcontrib-adadomain	PyPI	domains	Ada domain
+sphinxcontrib-cldomain	https://pypi.python.org/pypi/sphinxcontrib-cldomain	PyPI	domains	Common Lisp domain
+sphinxcontrib-cmakedomain	https://pypi.python.org/pypi/sphinxcontrib-cmakedomain	PyPI	domains	cmake domain
+sphinxcontrib-coffee	https://pypi.python.org/pypi/sphinxcontrib-coffee	PyPI	domains	CoffeeScript domain
+sphinxcontrib-domaintools	https://pypi.python.org/pypi/sphinxcontrib-domaintools	PyPI	domains	helper library for sphinx domains
+sphinxcontrib-dqndomain	https://pypi.python.org/pypi/sphinxcontrib-dqndomain	PyPI	domains	dqn domain
+sphinxcontrib-emacs	https://pypi.python.org/pypi/sphinxcontrib-emacs	PyPI	domains	Emacs Lisp domain
+sphinxcontrib-erlangdomain	https://pypi.python.org/pypi/sphinxcontrib-erlangdomain	PyPI	domains	Erlang domain
+sphinxcontrib-golangdomain	https://pypi.python.org/pypi/sphinxcontrib-golangdomain	PyPI	domains	Golang domain
+sphinxcontrib-httpdomain	https://pypi.python.org/pypi/sphinxcontrib-httpdomain	PyPI	domains	HTTP domain (for RESTful API docs)
+sphinxcontrib-jinjadomain	https://pypi.python.org/pypi/sphinxcontrib-jinjadomain	PyPI	domains	Jinja template domain
+sphinxcontrib-lassodomain	https://pypi.python.org/pypi/sphinxcontrib-lassodomain	PyPI	domains	Lasso domain
+sphinxcontrib-makedomain	https://pypi.python.org/pypi/sphinxcontrib-makedomain	PyPI	domains	make domain
+sphinxcontrib-matlabdomain	https://pypi.python.org/pypi/sphinxcontrib-matlabdomain	PyPI	domains	MATLAB domain and autodoc
+sphinxcontrib-operationdomain	https://pypi.python.org/pypi/sphinxcontrib-operationdomain	PyPI	domains	Operation domain
+sphinxcontrib-phpdomain	https://pypi.python.org/pypi/sphinxcontrib-phpdomain	PyPI	domains	PHP domain
+sphinxcontrib-scaladomain	https://pypi.python.org/pypi/sphinxcontrib-scaladomain	PyPI	domains	Scala domain
+sphinxcontrib-specdomain	https://pypi.python.org/pypi/sphinxcontrib-specdomain	PyPI	domains	SPEC domain
+sphinxcontrib-waspdomain	https://pypi.python.org/pypi/sphinxcontrib-waspdomain	PyPI	domains	a domain for the Wasp Scripting Language
+numpydoc	https://pypi.python.org/pypi/numpydoc	PyPI	enhancement	support numpy style docstrings, add plot directive (for matplotlib)
+sphinxcontrib-napoleon	https://pypi.python.org/pypi/sphinxcontrib-napoleon	PyPI	enhancement	support google style and numpy style docstrings
+configurableinclude.py	https://gist.github.com/j0nes2k/8672186	gist	enhancement	enhance include directive relative from configured path
+hiddencode	https://github.com/scopatz/hiddencode/	github	enhancement	enhance code-block switching hidden/shown
+japanesesupport	http://blog.shibu.jp/article/40049067.html#comment	misc	enhancement	truncate whitespaces between japanese words
+japanesesupport	https://bitbucket.org/hinaclegear/attachments/src/d96905ddfbb80c19bd5e26954f0f715f8cf298a2/20120113_japanesesupport.py?at=default	bitbucket	enhancement	truncate whitespaces between japanese words
+NamedNoteDirective	https://gist.github.com/shimizukawa/2927d6ef049fe39fc3c4	gist	enhancement	column directive
+orgtblfilter	https://pypi.python.org/pypi/orgtblfilter	PyPI	enhancement	support orgtbl notation (for emacs users)
+sphihxcontrib_markdown	https://gist.github.com/tk0miya/31b553b4bd4bf987731e	gist	enhancement	use markdown as input of Sphinx
+sphinx-classy-code	https://pypi.python.org/pypi/sphinx-classy-code	PyPI	enhancement	enhance code-block directive adding arbitrary CSS classes per line
+sphinx-markdown-transform	https://github.com/ericholscher/sphinx-markdown-transform	github	enhancement	turning Markdown-style links into RST links:
+sphinx-numfig	https://bitbucket.org/arjones6/sphinx-numfig	bitbucket	enhancement	assign figure numbers
+sphinx-paramlinks	https://pypi.python.org/pypi/sphinx-paramlinks	PyPI	enhancement	Allows param links in Sphinx function/method descriptions to be linkable
+sphinxcontrib_fancybulletlist	https://gist.github.com/tk0miya/4037204	gist	enhancement	Convert nested bullet list without blank line to correct one
+sphinxcontrib_markdown	https://gist.github.com/tk0miya/4336929	gist	enhancement	use markdown as input of Sphinx
+sphinxcontrib_remoteinclude	https://gist.github.com/tk0miya/4130196	gist	enhancement	literalinclude for remote files
+sphinxcontrib_section_autoref	https://gist.github.com/tk0miya/4036201	gist	enhancement	Add link-target labels to every sections automatically
+sphinxcontrib_wikitable.py	https://gist.github.com/tk0miya/3423680	gist	enhancement	wikitable directive
+sphinxcontrib-css3image	https://pypi.python.org/pypi/sphinxcontrib-css3image	PyPI	enhancement	enhance image directive supporting CSS3
+sphinxcontrib-fancybox	https://pypi.python.org/pypi/sphinxcontrib-fancybox	PyPI	enhancement	enhance image directive using fancybox (deprecated)
+sphinxcontrib-getthecode	https://pypi.python.org/pypi/sphinxcontrib-getthecode	PyPI	enhancement	enhance litralinclude generating header having filename, icon and download link
+sphinxcontrib-images	https://pypi.python.org/pypi/sphinxcontrib-images	PyPI	enhancement	enhance image directive using lightbox2
+sphinxcontrib-inlinesyntaxhighlight	https://pypi.python.org/pypi/sphinxcontrib-inlinesyntaxhighlight	PyPI	enhancement	enhance :code: role with highlighting
+sphinxcontrib-japanese-text-join	https://pypi.python.org/pypi/sphinxcontrib-japanese-text-join	PyPI	enhancement	drop unnecessary spaces which generated from return-codes
+sphinxcontrib-mockautodoc	https://pypi.python.org/pypi/sphinxcontrib-mockautodoc	PyPI	enhancement	enhance automodule directive importing mocks to resolve dependency
+sphinxjp.themecore	https://pypi.python.org/pypi/sphinxjp.themecore	PyPI	enhancement	theme plugin (deprecated)
+sphinx-contrib/examplecode	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	execute/result	fold multiple code blocks containing different programming languages into a single block
+sphinx-contrib/py_directive	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	execute/result	python code to be executed inside a restructuredtext document
+sphinxcontrib-autorun	https://pypi.python.org/pypi/sphinxcontrib-autorun	PyPI	execute/result	execute commands or python code and include its result
+sphinxcontrib-autorun2	https://pypi.python.org/pypi/sphinxcontrib-autorun2	PyPI	execute/result	same as sphinxcontrib-autorun??
+sphinxcontrib-jsdemo	https://pypi.python.org/pypi/sphinxcontrib-jsdemo	PyPI	execute/result	insert HTML and JS snippets
+sphinxcontrib-jsoncall	https://pypi.python.org/pypi/sphinxcontrib-jsoncall	PyPI	execute/result	insert forms to request JSON APIs and show its result
+sphinxcontrib-jsx	https://pypi.python.org/pypi/sphinxcontrib-jsx	PyPI	execute/result	insert and execute JSX code
+sphinxcontrib-programoutput	https://pypi.python.org/pypi/sphinxcontrib-programoutput	PyPI	execute/result	execute command and insert its result
+autoimage for Sphinx	https://gist.github.com/kroger/3856821	gist	images	select an image format by output format
+docutils_ext	https://pypi.python.org/pypi/docutils_ext	PyPI	images	SVG template
+pptshape	https://pypi.python.org/pypi/pptshape	PyPI	images	PowerPoint
+qubic.sphinx.graphvizinclude	https://pypi.python.org/pypi/qubic.sphinx.graphvizinclude	PyPI	images	graphviz
+sphinx-contrib/gnuplot	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	images	gnuplot
+sphinx-contrib/lilypond	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	images	lilypond
+sphinx-pyreverse	https://pypi.python.org/pypi/sphinx-pyreverse	PyPI	images	pyreverse
+sphinx-scruffy	https://pypi.python.org/pypi/sphinx-scruffy	PyPI	images	scruffy
+sphinxcontrib-aafig	https://pypi.python.org/pypi/sphinxcontrib-aafig	PyPI	images	aafigure
+sphinxcontrib-actdiag	https://pypi.python.org/pypi/sphinxcontrib-actdiag	PyPI	images	actdiag
+sphinxcontrib-astah	https://pypi.python.org/pypi/sphinxcontrib-astah	PyPI	images	Astah
+sphinxcontrib-bayesnet	https://pypi.python.org/pypi/sphinxcontrib-bayesnet	PyPI	images	BayesNet
+sphinxcontrib-blockdiag	https://pypi.python.org/pypi/sphinxcontrib-blockdiag	PyPI	images	blockdiag
+sphinxcontrib-cacoo	https://pypi.python.org/pypi/sphinxcontrib-cacoo	PyPI	images	cacoo
+sphinxcontrib-eagle	https://pypi.python.org/pypi/sphinxcontrib-eagle	PyPI	images	EAGLE
+sphinxcontrib-googlechart	https://pypi.python.org/pypi/sphinxcontrib-googlechart	PyPI	images	Google Chart Tools
+sphinxcontrib-gravatar	https://pypi.python.org/pypi/sphinxcontrib-gravatar	PyPI	images	Gravater icons
+sphinxcontrib-gruffygen	https://pypi.python.org/pypi/sphinxcontrib-gruffygen	PyPI	images	Gruffy
+sphinxcontrib-gtkwave	https://pypi.python.org/pypi/sphinxcontrib-gtkwave	PyPI	images	GTKWave
+sphinxcontrib-libreoffice	https://pypi.python.org/pypi/sphinxcontrib-libreoffice	PyPI	images	Libre Office
+sphinxcontrib-mscgen	https://pypi.python.org/pypi/sphinxcontrib-mscgen	PyPI	images	mscgen
+sphinxcontrib-nwdiag	https://pypi.python.org/pypi/sphinxcontrib-nwdiag	PyPI	images	nwdiag
+sphinxcontrib-plantuml	https://pypi.python.org/pypi/sphinxcontrib-plantuml	PyPI	images	PlantUML
+sphinxcontrib-proceduralimage	https://pypi.python.org/pypi/sphinxcontrib-proceduralimage	PyPI	images	execute python code and insert image generated by the code
+sphinxcontrib-programscreenshot	https://pypi.python.org/pypi/sphinxcontrib-programscreenshot	PyPI	images	screenshot GUI application using Xvfb
+sphinxcontrib-sadisplay	https://pypi.python.org/pypi/sphinxcontrib-sadisplay	PyPI	images	Rendering PlantUML diagrams or GraphViz directed graphs generated from SqlALchemy models
+sphinxcontrib-sdedit	https://pypi.python.org/pypi/sphinxcontrib-sdedit	PyPI	images	sdedit
+sphinxcontrib-seqdiag	https://pypi.python.org/pypi/sphinxcontrib-seqdiag	PyPI	images	seqdiag
+sphinxcontrib-texfigure	https://pypi.python.org/pypi/sphinxcontrib-texfigure	PyPI	images	insert image generated from TeX code
+sphinxcontrib-tikz	https://pypi.python.org/pypi/sphinxcontrib-tikz	PyPI	images	insert image generated from TeX code
+sphinxcontrib-visio	https://pypi.python.org/pypi/sphinxcontrib-visio	PyPI	images	MS-Visio
+sphinxcontrib-yuml	https://pypi.python.org/pypi/sphinxcontrib-yuml	PyPI	images	yUML
+sphinxjp-tk0miya	https://pypi.python.org/pypi/sphinxjp-tk0miya	PyPI	images	search image from flickr and insert it
+sphinx-xref	https://github.com/michaeljones/sphinx-xref	github	integrations	make it easier to link repeatedly to external documentation
+sphinxcontrib-doxylink	https://pypi.python.org/pypi/sphinxcontrib-doxylink	PyPI	integrations	link to external Doxygen API documentation
+sphinxcontrib-epydoc	https://pypi.python.org/pypi/sphinxcontrib-epydoc	PyPI	integrations	cross reference to external docs by epydoc
+TracSphinx	https://pypi.python.org/pypi/TracSphinx	PyPI	integrations	sphinx plugin *for trac*
+sphinxcontrib-osaka	https://pypi.python.org/pypi/sphinxcontrib-osaka	PyPI	jokes	convert to Osaka dialect
+sphinxcontrib-spam	https://pypi.python.org/pypi/sphinxcontrib-spam	PyPI	jokes	SPAM role
+sphinxjp.usaturn	https://pypi.python.org/pypi/sphinxjp.usaturn	PyPI	jokes	add new admonition
+wordcount-sphinx	https://github.com/hamukazu/wordcount-sphinx	github	jokes	counts the number of the word in the current document
+sphinxcontrib-gen_node	https://pypi.python.org/pypi/sphinxcontrib-gen_node	PyPI	metadata	Define new directives like todo/todolist
+sphinxcontrib-microdata	https://pypi.python.org/pypi/sphinxcontrib-microdata	PyPI	metadata	add semantic markups by microdata
+sphinxcontrib-taglist	https://pypi.python.org/pypi/sphinxcontrib-taglist	PyPI	metadata	define tags and correct them as taglist
+sphinx-traceability-extension	https://github.com/ociu/sphinx-traceability-extension	github	metadata	traceability matrix directives and roles
+sphinxcontrib-requirements	https://pypi.python.org/pypi/sphinxcontrib-requirements	PyPI	metadata	describe requirements and its status
+sagecellext.py	https://gist.github.com/shoibalc/3768206	gist	misc	sagecell directive
+abjad	https://pypi.python.org/pypi/Abjad/2.11	PyPI	misc	abjad extensions (for abjad document itself)
+local_toctree.py	https://gist.github.com/shimizukawa/5131720	gist	misc	to render local toctree in templates
+metapensiero.sphinx.patchdb	https://pypi.python.org/pypi/metapensiero.sphinx.patchdb	PyPI	misc	migrate database through sphinx directive
+nose-sphinx-doc	https://pypi.python.org/pypi/nose-sphinx-doc	PyPI	misc	sphinx plugin *for nose*
+rstspreadsheet	https://pypi.python.org/pypi/rstspreadsheet	PyPI	misc	fill cells in table like spreadsheet
+rusty	https://pypi.python.org/pypi/rusty	PyPI	misc	collection of extensions
+sbo-sphinx	https://pypi.python.org/pypi/sbo-sphinx	PyPI	misc	
+seqansphinx	https://pypi.python.org/pypi/seqansphinx	PyPI	misc	
+sphinx-prompt	https://pypi.python.org/pypi/sphinx-prompt	PyPI	misc	prompt
+sphinxcontrib_dir.py	https://gist.github.com/tk0miya/2652318	gist	misc	directory list directive
+sphinxcontrib-clearquest	https://pypi.python.org/pypi/sphinxcontrib-clearquest	PyPI	misc	IBM Rational ClearQuest
+sphinxcontrib-inheritance	https://pypi.python.org/pypi/sphinxcontrib-inheritance	PyPI	misc	
+sphinxcontrib-paverutils	https://pypi.python.org/pypi/sphinxcontrib-paverutils	PyPI	misc	
+sphinxcontrib-rawfiles	https://pypi.python.org/pypi/sphinxcontrib-rawfiles	PyPI	misc	copy files to builddir to distribute them
+sphinxcontrib-robotframework	https://pypi.python.org/pypi/sphinxcontrib-robotframework	PyPI	misc	execute embedded Robot Framework tests during sphinx-build.
+sphinxcontrib-testbuild	https://pypi.python.org/pypi/sphinxcontrib-testbuild	PyPI	misc	
+sphinxcontrib-webmocks	https://pypi.python.org/pypi/sphinxcontrib-webmocks	PyPI	misc	create web UI mocks using Sphinx
+sphinxjp.shibukawa	https://pypi.python.org/pypi/sphinxjp.shibukawa	PyPI	misc	insert calendar
+sphinxmapxrefrole	https://pypi.python.org/pypi/sphinxmapxrefrole	PyPI	misc	
+trydoc	https://pypi.python.org/pypi/trydoc	PyPI	misc	Tryton markup for Sphinx
+sphinx-contrib/youtube	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	multimedia/web-services	youtube directive
+sphinxcontrib-embedly	https://pypi.python.org/pypi/sphinxcontrib-embedly	PyPI	multimedia/web-services	embed anything using embed.ly
+sphinxcontrib-googlemaps	https://pypi.python.org/pypi/sphinxcontrib-googlemaps	PyPI	multimedia/web-services	insert googlemaps
+sphinxcontrib-nicovideo	https://pypi.python.org/pypi/sphinxcontrib-nicovideo	PyPI	multimedia/web-services	nicovideo
+sphinxcontrib-slide	https://pypi.python.org/pypi/sphinxcontrib-slide	PyPI	multimedia/web-services	insert slides
+sphinxcontrib-swf	https://pypi.python.org/pypi/sphinxcontrib-swf	PyPI	multimedia/web-services	insert Flash object
+sphinxcontrib.gist	https://pypi.python.org/pypi/sphinxcontrib.gist	PyPI	multimedia/web-services	insert gist
+sphinxcontrib.twitter	https://pypi.python.org/pypi/sphinxcontrib.twitter	PyPI	multimedia/web-services	insert tweet
+sphinxcontrib.youtube	https://pypi.python.org/pypi/sphinxcontrib.youtube	PyPI	multimedia/web-services	insert youtube
+sphinx-contrib/sword	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	roles	call Sword and insert Bible verses inline
+sphinx-contrib/traclinks	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	roles	trac role
+sphinx-ext-wikipedia	https://github.com/quiver/sphinx-ext-wikipedia	github	roles	Wikipedia role
+sphinx-vlaamsecodex	https://pypi.python.org/pypi/sphinx-vlaamsecodex	PyPI	roles	"Vlaamse Codex" roles
+sphinxcontrib_footnote.py	https://gist.github.com/tk0miya/2507585	gist	roles	footnote role
+sphinxcontrib-cheeseshop	https://pypi.python.org/pypi/sphinxcontrib-cheeseshop	PyPI	roles	PyPI role (link to package)
+sphinxcontrib-email	https://pypi.python.org/pypi/sphinxcontrib-email	PyPI	roles	email role
+sphinxcontrib-externallinks	https://pypi.python.org/pypi/sphinxcontrib-externallinks	PyPI	roles	directives and roles collection for google, googlemaps, tenki.jp, wikipedia, World heritage sites
+sphinxcontrib-manpage	https://pypi.python.org/pypi/sphinxcontrib-manpage	PyPI	roles	linux man role
+sphinxcontrib-smblink	https://pypi.python.org/pypi/sphinxcontrib-smblink	PyPI	roles	link role for Windows Share Links (WSL)
+sphinxcontrib-textstyle	https://pypi.python.org/pypi/sphinxcontrib-textstyle	PyPI	roles	roles collection; ruby, del and color
+dipus	https://pypi.python.org/pypi/dipus	PyPI	search	enhance full text search of Sphinx
+sphinxcontrib-findanything	https://pypi.python.org/pypi/sphinxcontrib-findanything	PyPI	search	Add FindAnything panel to your docs
+sphinxcontrib-whoosh	https://pypi.python.org/pypi/sphinxcontrib-whoosh	PyPI	search	enhance full text search of Sphinx
+extra_texescape.py	https://gist.github.com/rbonvall/652626	gist	thesis/latex	mapping unicode symbols to their LaTeX equivalents
+bibstuff	https://github.com/matthew-brett/bibstuff	github	thesis/latex	BibTeX Sphinx Extension
+sphinxcontrib-bibtex	https://pypi.python.org/pypi/sphinxcontrib-bibtex	PyPI	thesis/latex	work like \thebibliography and \cite
+sphinxtr	https://github.com/jterrace/sphinxtr	github	thesis/latex	a collection of extensions and monkey patches to Sphinx to better format a PhD thesis
+doc8	https://pypi.python.org/pypi/doc8	PyPI	utilities	Style checker for Sphinx (or other) RST documentation
+sphinx-me	https://pypi.python.org/pypi/sphinx-me	PyPI	utilities	create sphinx project from README
+Sphinx-PyPI-upload	https://pypi.python.org/pypi/Sphinx-PyPI-upload	PyPI	utilities	add upload_sphinx subcommand to setup.py
+sphinxcontrib-spelling	https://pypi.python.org/pypi/sphinxcontrib-spelling	PyPI	utilities	spell checker
+pylons_sphinx_latesturl	https://pypi.python.org/pypi/pylons_sphinx_latesturl	PyPI	website/blogs	rewrite template variables
+sphinx_amazonjp_embed	https://pypi.python.org/pypi/sphinx_amazonjp_embed	PyPI	website/blogs	embed amazon affliates
+ablog	https://pypi.python.org/pypi/ablog	PyPI	website/blogs	add blog features; feed, archive page and so on.
+sphinx-contrib/feed	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	website/blogs	generate RSS
+sphinx-contrib/hyphenator	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	website/blogs	provides hyphenation for html documentation
+sphinxcontrib_awesome.py	https://gist.github.com/tk0miya/8558c915187442a0f7dd	gist	website/blogs	Use font awesome using `:awesome:` role
+sphinxcontrib-ansi	https://pypi.python.org/pypi/sphinxcontrib-ansi	PyPI	website/blogs	turns ANSI color sequences on HTML
+sphinxcontrib-fulltoc	https://pypi.python.org/pypi/sphinxcontrib-fulltoc	PyPI	website/blogs	Enhance sidebar
+sphinxcontrib-googleanalytics	https://pypi.python.org/pypi/sphinxcontrib-googleanalytics	PyPI	website/blogs	Add googleanalytics trackers to your docs
+sphinxcontrib-newsfeed	https://pypi.python.org/pypi/sphinxcontrib-newsfeed	PyPI	website/blogs	generate RSS
+sphinxcontrib-recentpages	https://pypi.python.org/pypi/sphinxcontrib-recentpages	PyPI	website/blogs	show recent changed files
+sphinxcontrib.contributors	https://pypi.python.org/pypi/sphinxcontrib.contributors	PyPI	website/blogs	adds a sidebar box showing the contributors of the documentation.
+sphinxfeed	https://pypi.python.org/pypi/sphinxfeed	PyPI	website/blogs	generate RSS
+sphinxtogithub	https://pypi.python.org/pypi/sphinxtogithub	PyPI	website/blogs	rename directories for github pages
+yasfb	https://pypi.python.org/pypi/yasfb	PyPI	website/blogs	generate RSS
+sphinxcontrib-autoanysrc	https://pypi.python.org/pypi/sphinxcontrib-autoanysrc	PyPI	autodoc	some autodoc features for any sources
