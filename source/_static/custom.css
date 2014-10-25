@@ -43,3 +43,7 @@
     font-size: large;
     font-weight: bold;
 }
+
+.sphinx-extension a.reference.external {
+    word-break: break-all;
+}
