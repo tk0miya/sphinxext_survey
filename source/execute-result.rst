@@ -1,10 +1,18 @@
-execute/result (8)
+execute/result (9)
 ==================
 
 Executes commands or codes, and takes the results to document
 
 .. role:: extension-name
 
+
+.. container:: sphinx-extension misc
+
+   :extension-name:`Understanding JSON Schema`
+
+   :release: misc
+   :Download URL: http://spacetelescope.github.io/understanding-json-schema/
+   :Note: apply JSON Schema and include its result
 
 .. container:: sphinx-extension bitbucket
 

@@ -1,4 +1,4 @@
-enhancement (27)
+enhancement (28)
 ================
 
 Enhances features of Sphinx
@@ -64,6 +64,14 @@ Enhances features of Sphinx
 
    :author:  hinaclegear
    :Download URL: https://bitbucket.org/hinaclegear/attachments/src/d96905ddfbb80c19bd5e26954f0f715f8cf298a2/20120113_japanesesupport.py?at=default
+   :Note: truncate whitespaces between japanese words
+
+.. container:: sphinx-extension misc
+
+   :extension-name:`japanesesupport`
+
+   :release: misc
+   :Download URL: https://bitbucket.org/sphinxjp/goodies/src/86cd22393f/exts/japanesesupport/
    :Note: truncate whitespaces between japanese words
 
 .. container:: sphinx-extension PyPI

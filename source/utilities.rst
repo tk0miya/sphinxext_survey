@@ -1,4 +1,4 @@
-utilities (4)
+utilities (6)
 =============
 
 Tools for Sphinx
@@ -44,6 +44,46 @@ Tools for Sphinx
 
    .. |doc8-download| image:: https://pypip.in/download/doc8/badge.svg
       :target: https://pypi.python.org/pypi/doc8/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
+   :extension-name:`sphinx-autobuild`
+   |sphinx-autobuild-py_versions| |sphinx-autobuild-download|
+
+   Watch a Sphinx directory and rebuild the documentation when a change is detected. Also includes a livereload enabled web server.
+
+   :author:  Jonathan Stoppani
+   :version: 0.3.0
+   :release: 2014-08-21 13:24:48
+   :Download URL: https://pypi.python.org/pypi/sphinx-autobuild
+
+   .. |sphinx-autobuild-py_versions| image:: https://pypip.in/py_versions/sphinx-autobuild/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-autobuild/
+      :alt: Latest Version
+
+   .. |sphinx-autobuild-download| image:: https://pypip.in/download/sphinx-autobuild/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-autobuild/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
+   :extension-name:`sphinx-intl`
+   |sphinx-intl-py_versions| |sphinx-intl-download|
+
+   Sphinx utility that make it easy to translate and to apply translation.
+
+   :author:  Takayuki SHIMIZUKAWA
+   :version: 0.9.5
+   :release: 2014-07-09 23:10:44
+   :Download URL: https://pypi.python.org/pypi/sphinx-intl
+
+   .. |sphinx-intl-py_versions| image:: https://pypip.in/py_versions/sphinx-intl/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-intl/
+      :alt: Latest Version
+
+   .. |sphinx-intl-download| image:: https://pypip.in/download/sphinx-intl/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-intl/
       :alt: Downloads
 
 .. container:: sphinx-extension PyPI

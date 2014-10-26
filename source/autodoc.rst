@@ -1,4 +1,4 @@
-autodoc (25)
+autodoc (26)
 ============
 
 Generates documentation from source code or others
@@ -210,7 +210,7 @@ Generates documentation from source code or others
 
    :extension-name:`plot2rst`
 
-   :release: others
+   :release: misc
    :Download URL: http://tonysyu.github.io/mpltools/auto_examples/sphinx/plot_plot2rst.html
    :Note: converts a normal python file into reStructuredText. All strings in the python file are converted into regular reStructuredText, while all python code is converted into code blocks.
 
@@ -232,6 +232,26 @@ Generates documentation from source code or others
 
    .. |repoze.sphinx.autointerface-download| image:: https://pypip.in/download/repoze.sphinx.autointerface/badge.svg
       :target: https://pypi.python.org/pypi/repoze.sphinx.autointerface/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
+   :extension-name:`schema2rst`
+   |schema2rst-py_versions| |schema2rst-download|
+
+   schema2rst generates reST doc from database schema
+
+   :author:  Takeshi Komiya
+   :version: 0.9.0
+   :release: 2013-12-11 07:13:53
+   :Download URL: https://pypi.python.org/pypi/schema2rst
+
+   .. |schema2rst-py_versions| image:: https://pypip.in/py_versions/schema2rst/badge.svg
+      :target: https://pypi.python.org/pypi/schema2rst/
+      :alt: Latest Version
+
+   .. |schema2rst-download| image:: https://pypip.in/download/schema2rst/badge.svg
+      :target: https://pypi.python.org/pypi/schema2rst/
       :alt: Downloads
 
 .. container:: sphinx-extension github
@@ -290,8 +310,8 @@ Generates documentation from source code or others
    Sphinx extension with some autodoc features for any sources
 
    :author:  Evgeniy Tatarkin
-   :version: 0.0.1dev-20141023
-   :release: 2014-10-23 12:20:56
+   :version: 0.0.1dev-20141025
+   :release: 2014-10-25 16:45:30
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-autoanysrc
 
    .. |sphinxcontrib-autoanysrc-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-autoanysrc/badge.svg
