@@ -77,6 +77,7 @@ sphinxcontrib-phpdomain	https://pypi.python.org/pypi/sphinxcontrib-phpdomain	PyP
 sphinxcontrib-scaladomain	https://pypi.python.org/pypi/sphinxcontrib-scaladomain	PyPI	domains	Scala domain
 sphinxcontrib-specdomain	https://pypi.python.org/pypi/sphinxcontrib-specdomain	PyPI	domains	SPEC domain
 sphinxcontrib-waspdomain	https://pypi.python.org/pypi/sphinxcontrib-waspdomain	PyPI	domains	a domain for the Wasp Scripting Language
+sphinxcontrib-cheader	https://pypi.python.org/pypi/sphinxcontrib-cheader	PyPI	domains	
 cartouche	https://pypi.python.org/pypi/cartouche	PyPI	enhancement	support google style docstrings
 configurableinclude.py	https://gist.github.com/j0nes2k/8672186	gist	enhancement	enhance include directive relative from configured path
 hiddencode	https://github.com/scopatz/hiddencode/	github	enhancement	enhance code-block switching hidden/shown
