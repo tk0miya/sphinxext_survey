@@ -246,8 +246,8 @@ Enhances features of Sphinx
    Sphinx "images" extension
 
    :author:  Tomasz Czyż
-   :version: 0.4.1
-   :release: 2014-09-10 23:08:15
+   :version: 0.4.2
+   :release: 2014-11-12 19:12:06
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-images
 
    .. |sphinxcontrib-images-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-images/badge.svg

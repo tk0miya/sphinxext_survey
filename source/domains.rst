@@ -1,4 +1,4 @@
-domains (28)
+domains (29)
 ============
 
 Adds language-domains
@@ -148,6 +148,26 @@ Adds language-domains
 
 .. container:: sphinx-extension PyPI
 
+   :extension-name:`sphinxcontrib-cheader`
+   |sphinxcontrib-cheader-py_versions| |sphinxcontrib-cheader-download|
+
+   Sphinx c:header directive
+
+   :author:  Arto Bendiken
+   :version: 1.0.0
+   :release: 2014-11-10 23:41:32
+   :Download URL: https://pypi.python.org/pypi/sphinxcontrib-cheader
+
+   .. |sphinxcontrib-cheader-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-cheader/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-cheader/
+      :alt: Latest Version
+
+   .. |sphinxcontrib-cheader-download| image:: https://pypip.in/download/sphinxcontrib-cheader/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-cheader/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
    :extension-name:`sphinxcontrib-cldomain`
    |sphinxcontrib-cldomain-py_versions| |sphinxcontrib-cldomain-download|
 
@@ -254,8 +274,8 @@ Adds language-domains
    Emacs documentation support for Sphinx
 
    :author:  Sebastian Wiesner
-   :version: 0.2.1
-   :release: 2014-08-08 13:09:21
+   :version: 0.3
+   :release: 2014-11-17 16:47:03
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-emacs
 
    .. |sphinxcontrib-emacs-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-emacs/badge.svg
@@ -394,8 +414,8 @@ Adds language-domains
    Sphinx "matlabdomain" extension
 
    :author:  Mark Mikofski
-   :version: 0.2.5
-   :release: 2014-10-04 01:11:26
+   :version: 0.2.6
+   :release: 2014-11-11 00:18:59
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-matlabdomain
 
    .. |sphinxcontrib-matlabdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-matlabdomain/badge.svg
@@ -414,8 +434,8 @@ Adds language-domains
    Sphinx extension sphinxcontrib-operationdomain
 
    :author:  togakushi
-   :version: 0.0.2dev-20130127
-   :release: 2013-01-27 08:06:31
+   :version: 0.1.0
+   :release: 2014-11-17 12:16:37
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-operationdomain
 
    .. |sphinxcontrib-operationdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-operationdomain/badge.svg

@@ -14,8 +14,8 @@ Generates documentation from source code or others
    Sphinx Doxygen renderer
 
    :author:  Michael Jones
-   :version: 3.1.0
-   :release: 2014-09-07 09:34:48
+   :version: 3.2.0
+   :release: 2014-11-09 17:25:49
    :Download URL: https://pypi.python.org/pypi/breathe
 
    .. |breathe-py_versions| image:: https://pypip.in/py_versions/breathe/badge.svg
@@ -310,8 +310,8 @@ Generates documentation from source code or others
    Sphinx extension with some autodoc features for any sources
 
    :author:  Evgeniy Tatarkin
-   :version: 0.0.1dev-20141025
-   :release: 2014-10-25 16:45:30
+   :version: 0.0.3-20141120
+   :release: 2014-11-20 12:45:16
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-autoanysrc
 
    .. |sphinxcontrib-autoanysrc-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-autoanysrc/badge.svg
@@ -390,8 +390,8 @@ Generates documentation from source code or others
    Sphinx "cqlengine" extension
 
    :author:  Kai Lautaportti
-   :version: 0.1
-   :release: 2013-11-26 17:36:21
+   :version: 0.2
+   :release: 2014-11-08 22:41:24
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-cqlengine
 
    .. |sphinxcontrib-cqlengine-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-cqlengine/badge.svg

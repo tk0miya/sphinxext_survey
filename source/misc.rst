@@ -150,8 +150,8 @@ miscellaneous extensions
    Sphinx extension for SeqAn Sphinx document
 
    :author:  Manuel Holtgrewe
-   :version: 0.2.2
-   :release: 2014-10-21 15:21:01
+   :version: 0.3.0
+   :release: 2014-12-15 14:23:34
    :Download URL: https://pypi.python.org/pypi/seqansphinx
 
    .. |seqansphinx-py_versions| image:: https://pypip.in/py_versions/seqansphinx/badge.svg

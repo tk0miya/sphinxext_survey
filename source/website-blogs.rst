@@ -110,8 +110,8 @@ Extensions for Web sites and blogging
    Include a full table of contents in your Sphinx HTML sidebar
 
    :author:  Doug Hellmann
-   :version: 1.0
-   :release: 2012-08-04 16:43:54
+   :version: 1.1
+   :release: 2014-11-13 18:06:41
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-fulltoc
 
    .. |sphinxcontrib-fulltoc-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-fulltoc/badge.svg

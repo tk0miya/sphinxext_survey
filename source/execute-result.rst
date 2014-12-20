@@ -118,8 +118,8 @@ Executes commands or codes, and takes the results to document
    Sphinx JSX directive extension
 
    :author:  Prometheus Research, LLC
-   :version: 0.2.0
-   :release: 2014-08-04 21:08:40
+   :version: 0.3.0
+   :release: 2014-11-24 10:20:24
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-jsx
 
    .. |sphinxcontrib-jsx-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-jsx/badge.svg

@@ -14,8 +14,8 @@ Generates tables from database or others
    Support for including Excel spreadsheets into Sphinx documents
 
    :author:  Juha Mustonen
-   :version: 0.1
-   :release: 2011-08-28 20:33:48
+   :version: 0.2.2
+   :release: 2014-12-08 16:53:10
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-exceltable
 
    .. |sphinxcontrib-exceltable-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-exceltable/badge.svg
