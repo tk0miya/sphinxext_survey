@@ -11,11 +11,11 @@ Enables to output document as new format
    :extension-name:`hieroglyph`
    |hieroglyph-py_versions| |hieroglyph-download|
 
-   
+   Generate HTML presentations from plain text sources with all the power of Sphinx.
 
    :author:  Nathan Yergler
-   :version: 0.6.5
-   :release: 2014-03-02 00:03:22
+   :version: 0.7.1
+   :release: 2015-03-28 17:07:46
    :Download URL: https://pypi.python.org/pypi/hieroglyph
 
    .. |hieroglyph-py_versions| image:: https://pypip.in/py_versions/hieroglyph/badge.svg

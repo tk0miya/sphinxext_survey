@@ -174,8 +174,8 @@ Adds language-domains
    Sphinx domain for Common Lisp
 
    :author:  Russell Sim
-   :version: 0.10
-   :release: 2014-06-12 12:50:01
+   :version: 0.12
+   :release: 2015-02-24 11:13:52
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-cldomain
 
    .. |sphinxcontrib-cldomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-cldomain/badge.svg
@@ -274,8 +274,8 @@ Adds language-domains
    Emacs documentation support for Sphinx
 
    :author:  Sebastian Wiesner
-   :version: 0.3
-   :release: 2014-11-17 16:47:03
+   :version: 0.3.1
+   :release: 2014-12-20 09:16:45
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-emacs
 
    .. |sphinxcontrib-emacs-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-emacs/badge.svg
@@ -374,8 +374,8 @@ Adds language-domains
    Lasso domain for Sphinx
 
    :author:  Eric Knibbe
-   :version: 0.2
-   :release: 2013-12-17 04:51:49
+   :version: 0.3
+   :release: 2015-01-27 04:04:49
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-lassodomain
 
    .. |sphinxcontrib-lassodomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-lassodomain/badge.svg
@@ -511,11 +511,11 @@ Adds language-domains
    :extension-name:`sphinxcontrib-waspdomain`
    |sphinxcontrib-waspdomain-py_versions| |sphinxcontrib-waspdomain-download|
 
-   Sphinx extension for Wasp domain
+   
 
-   :author:  MNMLSTC
-   :version: 0.1
-   :release: 2014-08-07 01:39:32
+   :author:  unknown
+   :version: unknown
+   :release: unknown
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-waspdomain
 
    .. |sphinxcontrib-waspdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-waspdomain/badge.svg

@@ -34,8 +34,8 @@ Tools for Sphinx
    Style checker for Sphinx (or other) RST documentation
 
    :author:  OpenStack
-   :version: 0.5.0
-   :release: 2014-10-25 01:25:50
+   :version: 0.6.0
+   :release: 2015-04-18 01:15:11
    :Download URL: https://pypi.python.org/pypi/doc8
 
    .. |doc8-py_versions| image:: https://pypip.in/py_versions/doc8/badge.svg
@@ -54,8 +54,8 @@ Tools for Sphinx
    Watch a Sphinx directory and rebuild the documentation when a change is detected. Also includes a livereload enabled web server.
 
    :author:  Jonathan Stoppani
-   :version: 0.3.0
-   :release: 2014-08-21 13:24:48
+   :version: 0.5.2
+   :release: 2015-04-10 15:39:30
    :Download URL: https://pypi.python.org/pypi/sphinx-autobuild
 
    .. |sphinx-autobuild-py_versions| image:: https://pypip.in/py_versions/sphinx-autobuild/badge.svg

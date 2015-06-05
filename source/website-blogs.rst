@@ -14,8 +14,8 @@ Extensions for Web sites and blogging
    ABlog for blogging with Sphinx
 
    :author:  Ahmet Bakan
-   :version: 0.3.1
-   :release: 2014-09-24 04:27:56
+   :version: 0.7.0
+   :release: 2015-05-03 19:14:58
    :Download URL: https://pypi.python.org/pypi/ablog
 
    .. |ablog-py_versions| image:: https://pypip.in/py_versions/ablog/badge.svg
@@ -150,8 +150,8 @@ Extensions for Web sites and blogging
    News Feed extension for Sphinx
 
    :author:  Kirill Simonov (Prometheus Research, LLC)
-   :version: 0.1.1
-   :release: 2013-03-01 00:46:14
+   :version: 0.1.4
+   :release: 2015-02-18 23:53:38
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-newsfeed
 
    .. |sphinxcontrib-newsfeed-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-newsfeed/badge.svg

@@ -1,5 +1,5 @@
-search (3)
-==========
+searchfind (3)
+==============
 
 Enhances search features of Sphinx
 

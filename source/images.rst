@@ -158,8 +158,8 @@ Inserts (generates) images to document
    Sphinx "actdiag" extension
 
    :author:  Takeshi KOMIYA
-   :version: 0.8.0
-   :release: 2014-10-17 06:00:12
+   :version: 0.8.3
+   :release: 2015-04-26 13:09:39
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-actdiag
 
    .. |sphinxcontrib-actdiag-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-actdiag/badge.svg
@@ -178,8 +178,8 @@ Inserts (generates) images to document
    Sphinx "astah" extension; embed diagram by using astah
 
    :author:  Takeshi KOMIYA
-   :version: 0.1.0
-   :release: 2014-08-22 08:16:43
+   :version: 0.2.0
+   :release: 2015-05-18 09:59:58
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-astah
 
    .. |sphinxcontrib-astah-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-astah/badge.svg
@@ -218,8 +218,8 @@ Inserts (generates) images to document
    Sphinx "blockdiag" extension
 
    :author:  Takeshi KOMIYA
-   :version: 1.5.0
-   :release: 2014-10-17 05:46:55
+   :version: 1.5.3
+   :release: 2015-04-26 13:06:11
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-blockdiag
 
    .. |sphinxcontrib-blockdiag-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-blockdiag/badge.svg
@@ -278,8 +278,8 @@ Inserts (generates) images to document
    Sphinx "googlechart" extension
 
    :author:  Takeshi KOMIYA
-   :version: 0.2.0
-   :release: 2014-06-01 01:33:47
+   :version: 0.2.1
+   :release: 2015-04-01 02:32:53
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-googlechart
 
    .. |sphinxcontrib-googlechart-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-googlechart/badge.svg
@@ -298,8 +298,8 @@ Inserts (generates) images to document
    Sphinx "gravatar" extension
 
    :author:  tell-k
-   :version: 0.1.0
-   :release: 2014-10-01 16:35:03
+   :version: 0.1.2
+   :release: 2015-01-01 15:45:21
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-gravatar
 
    .. |sphinxcontrib-gravatar-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-gravatar/badge.svg
@@ -398,8 +398,8 @@ Inserts (generates) images to document
    Sphinx "nwdiag" extension
 
    :author:  Takeshi KOMIYA
-   :version: 0.9.0
-   :release: 2014-10-17 06:08:16
+   :version: 0.9.3
+   :release: 2015-04-26 13:10:35
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-nwdiag
 
    .. |sphinxcontrib-nwdiag-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-nwdiag/badge.svg
@@ -518,8 +518,8 @@ Inserts (generates) images to document
    Sphinx "seqdiag" extension
 
    :author:  Takeshi KOMIYA
-   :version: 0.8.0
-   :release: 2014-10-17 05:53:50
+   :version: 0.8.3
+   :release: 2015-04-26 13:08:26
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-seqdiag
 
    .. |sphinxcontrib-seqdiag-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-seqdiag/badge.svg
@@ -538,8 +538,8 @@ Inserts (generates) images to document
    TeX Figure extension for Sphinx
 
    :author:  Kirill Simonov (Prometheus Research, LLC)
-   :version: 0.1.1
-   :release: 2013-03-01 00:46:35
+   :version: 0.1.3
+   :release: 2015-02-19 00:12:37
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-texfigure
 
    .. |sphinxcontrib-texfigure-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-texfigure/badge.svg

@@ -162,8 +162,8 @@ Inserts multimedia contents and contents from Web services
    embedding gist to sphinx
 
    :author:  @shomah4a
-   :version: 0.1.2
-   :release: 2013-12-04 12:54:07
+   :version: 0.2.0
+   :release: unknown
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib.youtube
 
    .. |sphinxcontrib.youtube-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib.youtube/badge.svg

@@ -78,8 +78,8 @@ Executes commands or codes, and takes the results to document
    HTML/Javascript Demo extension for Sphinx
 
    :author:  Kirill Simonov (Prometheus Research, LLC)
-   :version: 0.1.1
-   :release: 2013-03-01 00:46:24
+   :version: 0.1.4
+   :release: 2015-02-18 23:52:32
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-jsdemo
 
    .. |sphinxcontrib-jsdemo-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-jsdemo/badge.svg

@@ -74,8 +74,8 @@ Enables to mark up changelog, history and version info
    git Changelog for Sphinx
 
    :author:  Daniel Watkins
-   :version: 8
-   :release: 2013-11-27 09:44:39
+   :version: 9
+   :release: 2015-02-23 16:22:28
    :Download URL: https://pypi.python.org/pypi/sphinx-git
 
    .. |sphinx-git-py_versions| image:: https://pypip.in/py_versions/sphinx-git/badge.svg

@@ -34,8 +34,8 @@ Generates tables from database or others
    HTSQL extension for Sphinx
 
    :author:  Kirill Simonov (Prometheus Research, LLC)
-   :version: 0.1.2
-   :release: 2013-03-21 15:26:21
+   :version: 0.1.5
+   :release: 2015-02-18 23:51:31
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-htsql
 
    .. |sphinxcontrib-htsql-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-htsql/badge.svg

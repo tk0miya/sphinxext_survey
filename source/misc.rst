@@ -14,8 +14,8 @@ miscellaneous extensions
    Abjad is a Python API for Formalized Score Control.
 
    :author:  Trevor Bača, Josiah Wolf Oberholtzer, Víctor Adán
-   :version: 2.15
-   :release: 2014-08-08 14:36:20
+   :version: 2.16
+   :release: 2015-05-30 05:46:03
    :Download URL: https://pypi.python.org/pypi/Abjad/2.11
 
    .. |abjad-py_versions| image:: https://pypip.in/py_versions/abjad/badge.svg
@@ -130,8 +130,8 @@ miscellaneous extensions
    Sphinx configuration and libraries for Safari Books Online documentation
 
    :author:  Jeremy Bowman
-   :version: 2.0.2
-   :release: 2014-03-26 17:06:56
+   :version: 2.1.0
+   :release: 2015-04-30 18:50:41
    :Download URL: https://pypi.python.org/pypi/sbo-sphinx
 
    .. |sbo-sphinx-py_versions| image:: https://pypip.in/py_versions/sbo-sphinx/badge.svg
@@ -210,8 +210,8 @@ miscellaneous extensions
    Documentation inheritance functionality for Sphinx
 
    :author:  NaN·tic
-   :version: 0.7.1
-   :release: 2014-10-22 09:32:15
+   :version: 0.8.0
+   :release: 2015-05-15 13:35:35
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-inheritance
 
    .. |sphinxcontrib-inheritance-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-inheritance/badge.svg
@@ -230,8 +230,8 @@ miscellaneous extensions
    Sphinx/Paver integration
 
    :author:  Doug Hellmann
-   :version: 1.6
-   :release: 2014-03-23 15:28:56
+   :version: 1.9.0
+   :release: 2015-06-04 11:52:53
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-paverutils
 
    .. |sphinxcontrib-paverutils-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-paverutils/badge.svg
@@ -270,8 +270,8 @@ miscellaneous extensions
    Robot Framework extension for Sphinx
 
    :author:  Asko Soukka
-   :version: 0.4.4
-   :release: 2014-07-20 07:53:14
+   :version: 0.5.0
+   :release: 2014-12-24 07:52:33
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-robotframework
 
    .. |sphinxcontrib-robotframework-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-robotframework/badge.svg
@@ -358,8 +358,8 @@ miscellaneous extensions
    Sphinx mapping role
 
    :author:  Patrick Snape
-   :version: 0.1.0
-   :release: 2014-05-01 11:26:33
+   :version: 0.2.1
+   :release: 2015-01-30 15:03:00
    :Download URL: https://pypi.python.org/pypi/sphinxmapxrefrole
 
    .. |sphinxmapxrefrole-py_versions| image:: https://pypip.in/py_versions/sphinxmapxrefrole/badge.svg
@@ -378,8 +378,8 @@ miscellaneous extensions
    Tryton markup for Sphinx
 
    :author:  NaN Projectes de Programari Lliure, S.L.
-   :version: 0.7.1
-   :release: 2014-10-22 16:02:05
+   :version: 0.8
+   :release: 2015-05-06 08:39:41
    :Download URL: https://pypi.python.org/pypi/trydoc
 
    .. |trydoc-py_versions| image:: https://pypip.in/py_versions/trydoc/badge.svg

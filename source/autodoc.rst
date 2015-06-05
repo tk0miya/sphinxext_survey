@@ -14,8 +14,8 @@ Generates documentation from source code or others
    Sphinx Doxygen renderer
 
    :author:  Michael Jones
-   :version: 3.2.0
-   :release: 2014-11-09 17:25:49
+   :version: 4.0.0
+   :release: 2015-04-02 07:14:14
    :Download URL: https://pypi.python.org/pypi/breathe
 
    .. |breathe-py_versions| image:: https://pypip.in/py_versions/breathe/badge.svg
@@ -270,8 +270,8 @@ Generates documentation from source code or others
    Sphinx extension that automatically document argparse commands and options
 
    :author:  Aleksandr Rudakov
-   :version: 0.1.13
-   :release: 2014-08-18 20:45:25
+   :version: 0.1.15
+   :release: 2015-04-06 09:47:54
    :Download URL: https://pypi.python.org/pypi/sphinx-argparse
 
    .. |sphinx-argparse-py_versions| image:: https://pypip.in/py_versions/sphinx-argparse/badge.svg
