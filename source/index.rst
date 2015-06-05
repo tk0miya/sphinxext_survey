@@ -18,7 +18,7 @@ This is list of Sphinx extensions at October, 2014.
    metadata
    multimedia-web-services
    roles
-   search
+   searchfind
    thesis-latex
    utilities
    website-blogs
