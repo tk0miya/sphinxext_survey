@@ -202,9 +202,9 @@ sphinxcontrib-externallinks	https://pypi.python.org/pypi/sphinxcontrib-externall
 sphinxcontrib-manpage	https://pypi.python.org/pypi/sphinxcontrib-manpage	PyPI	roles	linux man role
 sphinxcontrib-smblink	https://pypi.python.org/pypi/sphinxcontrib-smblink	PyPI	roles	link role for Windows Share Links (WSL)
 sphinxcontrib-textstyle	https://pypi.python.org/pypi/sphinxcontrib-textstyle	PyPI	roles	roles collection; ruby, del and color
-dipus	https://pypi.python.org/pypi/dipus	PyPI	search	enhance full text search of Sphinx
-sphinxcontrib-findanything	https://pypi.python.org/pypi/sphinxcontrib-findanything	PyPI	search	Add FindAnything panel to your docs
-sphinxcontrib-whoosh	https://pypi.python.org/pypi/sphinxcontrib-whoosh	PyPI	search	enhance full text search of Sphinx
+dipus	https://pypi.python.org/pypi/dipus	PyPI	searchfind	enhance full text search of Sphinx
+sphinxcontrib-findanything	https://pypi.python.org/pypi/sphinxcontrib-findanything	PyPI	searchfind	Add FindAnything panel to your docs
+sphinxcontrib-whoosh	https://pypi.python.org/pypi/sphinxcontrib-whoosh	PyPI	searchfind	enhance full text search of Sphinx
 bibstuff	https://github.com/matthew-brett/bibstuff	github	thesis/latex	BibTeX Sphinx Extension
 extra_texescape.py	https://gist.github.com/rbonvall/652626	gist	thesis/latex	mapping unicode symbols to their LaTeX equivalents
 sphinxcontrib-bibtex	https://pypi.python.org/pypi/sphinxcontrib-bibtex	PyPI	thesis/latex	work like \thebibliography and \cite
