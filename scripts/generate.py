@@ -5,6 +5,7 @@ import io
 import os
 import re
 import csv
+import sys
 import iso8601
 import requests
 from textwrap import dedent
@@ -28,7 +29,7 @@ descriptions = {
     'metadata': u'Enables to mark up metadata to document',
     'multimedia/web-services': u'Inserts multimedia contents and contents from Web services',
     'roles': u'Adds Sphinx roles',
-    'search': u'Enhances search features of Sphinx',
+    'searchfind': u'Enhances search features of Sphinx',
     'thesis/latex': u'Extensions for thesis and LaTeX',
     'utilities': u'Tools for Sphinx',
     'website/blogs': u'Extensions for Web sites and blogging',
@@ -80,17 +81,20 @@ class ExtensionOnPyPI(Extension):
 
     def fetch_packageinfo(self):
         url = "https://pypi.python.org/pypi/%s/json" % self.name
-        r = requests.get(url).json()
-        self.version = r['info']['version']
-        self.author = r['info']['author']
-        releases = r['releases'].get(self.version)
-        if releases:
-            self.released_at = iso8601.parse_date(releases[0]['upload_time']).replace(tzinfo=None)
-        if r['info']['summary']:
-            if r['info']['summary'] != 'UNKNOWN':
-                self.description = r['info']['summary'].replace('\n', ' ')
-        else:
-            self.description = r['info']['description'].split('\n')[0]
+        try:
+            r = requests.get(url).json()
+            self.version = r['info']['version']
+            self.author = r['info']['author']
+            releases = r['releases'].get(self.version)
+            if releases:
+                self.released_at = iso8601.parse_date(releases[0]['upload_time']).replace(tzinfo=None)
+            if r['info']['summary']:
+                if r['info']['summary'] != 'UNKNOWN':
+                    self.description = r['info']['summary'].replace('\n', ' ')
+            else:
+                self.description = r['info']['description'].split('\n')[0]
+        except ValueError as exc:
+            sys.stderr.write('PyPI package `%s` is missing: %r\n' % (self.name, exc))
 
     def to_rst(self):
         self.fetch_packageinfo()
