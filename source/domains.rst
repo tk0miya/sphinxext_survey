@@ -1,4 +1,4 @@
-domains (29)
+domains (28)
 ============
 
 Adds language-domains
@@ -11,11 +11,11 @@ Adds language-domains
    :extension-name:`catkin-sphinx`
    |catkin-sphinx-py_versions| |catkin-sphinx-download|
 
-   ROS package library
+   Sphinx extension for Catkin projects
 
-   :author:  Issac Trotts
-   :version: 0.2.1
-   :release: 2012-10-09 18:17:34
+   :author:  William Woodall
+   :version: 0.2.2
+   :release: 2016-04-16 02:16:33
    :Download URL: https://pypi.python.org/pypi/catkin-sphinx
 
    .. |catkin-sphinx-py_versions| image:: https://pypip.in/py_versions/catkin-sphinx/badge.svg
@@ -62,8 +62,8 @@ Adds language-domains
    Sphinx extension for documenting Java projects
 
    :author:  Chris Thunes
-   :version: 0.9.12
-   :release: 2014-08-06 03:15:55
+   :version: 0.9.15
+   :release: 2017-01-26 22:08:28
    :Download URL: https://pypi.python.org/pypi/javasphinx/
 
    .. |javasphinx-py_versions| image:: https://pypip.in/py_versions/javasphinx/badge.svg
@@ -174,8 +174,8 @@ Adds language-domains
    Sphinx domain for Common Lisp
 
    :author:  Russell Sim
-   :version: 0.12
-   :release: 2015-02-24 11:13:52
+   :version: 0.13
+   :release: 2015-09-05 23:48:03
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-cldomain
 
    .. |sphinxcontrib-cldomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-cldomain/badge.svg
@@ -334,8 +334,8 @@ Adds language-domains
    Sphinx domain for HTTP APIs
 
    :author:  Hong Minhee
-   :version: 1.3.0
-   :release: 2014-07-30 16:41:27
+   :version: 1.5.0
+   :release: 2016-05-29 18:16:14
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-httpdomain
 
    .. |sphinxcontrib-httpdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-httpdomain/badge.svg
@@ -374,8 +374,8 @@ Adds language-domains
    Lasso domain for Sphinx
 
    :author:  Eric Knibbe
-   :version: 0.3
-   :release: 2015-01-27 04:04:49
+   :version: 0.4
+   :release: 2016-09-08 15:49:56
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-lassodomain
 
    .. |sphinxcontrib-lassodomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-lassodomain/badge.svg
@@ -414,8 +414,8 @@ Adds language-domains
    Sphinx "matlabdomain" extension
 
    :author:  Mark Mikofski
-   :version: 0.2.6
-   :release: 2014-11-11 00:18:59
+   :version: 0.2.8
+   :release: 2016-12-15 08:37:41
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-matlabdomain
 
    .. |sphinxcontrib-matlabdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-matlabdomain/badge.svg
@@ -451,11 +451,11 @@ Adds language-domains
    :extension-name:`sphinxcontrib-phpdomain`
    |sphinxcontrib-phpdomain-py_versions| |sphinxcontrib-phpdomain-download|
 
-   Sphinx "phpdomain" extension
+   Sphinx extension to enable documenting PHP code
 
    :author:  Mark Story
-   :version: 0.1.4
-   :release: 2012-11-03 13:18:45
+   :version: 0.2.5
+   :release: 2017-04-05 16:30:06
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-phpdomain
 
    .. |sphinxcontrib-phpdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-phpdomain/badge.svg
@@ -504,24 +504,4 @@ Adds language-domains
 
    .. |sphinxcontrib-specdomain-download| image:: https://pypip.in/download/sphinxcontrib-specdomain/badge.svg
       :target: https://pypi.python.org/pypi/sphinxcontrib-specdomain/
-      :alt: Downloads
-
-.. container:: sphinx-extension PyPI
-
-   :extension-name:`sphinxcontrib-waspdomain`
-   |sphinxcontrib-waspdomain-py_versions| |sphinxcontrib-waspdomain-download|
-
-   
-
-   :author:  unknown
-   :version: unknown
-   :release: unknown
-   :Download URL: https://pypi.python.org/pypi/sphinxcontrib-waspdomain
-
-   .. |sphinxcontrib-waspdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-waspdomain/badge.svg
-      :target: https://pypi.python.org/pypi/sphinxcontrib-waspdomain/
-      :alt: Latest Version
-
-   .. |sphinxcontrib-waspdomain-download| image:: https://pypip.in/download/sphinxcontrib-waspdomain/badge.svg
-      :target: https://pypi.python.org/pypi/sphinxcontrib-waspdomain/
       :alt: Downloads

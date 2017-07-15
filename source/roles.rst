@@ -38,8 +38,8 @@ Adds Sphinx roles
    Sphinx extension to integrate http://codex.vlaanderen.be in a document.
 
    :author:  Flanders Heritage Agency
-   :version: 0.2.1
-   :release: 2014-09-03 09:44:37
+   :version: 0.2.4
+   :release: 2015-09-11 12:39:01
    :Download URL: https://pypi.python.org/pypi/sphinx-vlaamsecodex
 
    .. |sphinx-vlaamsecodex-py_versions| image:: https://pypip.in/py_versions/sphinx-vlaamsecodex/badge.svg
@@ -158,8 +158,8 @@ Adds Sphinx roles
    Sphinx "textstyle" extension
 
    :author:  WAKAYAMA Shirou
-   :version: 0.2.0
-   :release: 2013-03-13 07:00:18
+   :version: 0.2.2
+   :release: 2017-01-24 02:14:33
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-textstyle
 
    .. |sphinxcontrib-textstyle-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-textstyle/badge.svg

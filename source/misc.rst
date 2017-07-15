@@ -14,8 +14,8 @@ miscellaneous extensions
    Abjad is a Python API for Formalized Score Control.
 
    :author:  Trevor Bača, Josiah Wolf Oberholtzer, Víctor Adán
-   :version: 2.16
-   :release: 2015-05-30 05:46:03
+   :version: 2.20
+   :release: 2017-05-04 04:03:31
    :Download URL: https://pypi.python.org/pypi/Abjad/2.11
 
    .. |abjad-py_versions| image:: https://pypip.in/py_versions/abjad/badge.svg
@@ -42,8 +42,8 @@ miscellaneous extensions
    Extract scripts from a reST document and apply them in order.
 
    :author:  Lele Gaifax
-   :version: 1.2.1
-   :release: 2014-07-02 07:28:08
+   :version: 2.25
+   :release: 2017-06-29 11:05:19
    :Download URL: https://pypi.python.org/pypi/metapensiero.sphinx.patchdb
 
    .. |metapensiero.sphinx.patchdb-py_versions| image:: https://pypip.in/py_versions/metapensiero.sphinx.patchdb/badge.svg
@@ -130,8 +130,8 @@ miscellaneous extensions
    Sphinx configuration and libraries for Safari Books Online documentation
 
    :author:  Jeremy Bowman
-   :version: 2.1.0
-   :release: 2015-04-30 18:50:41
+   :version: 2.2.0
+   :release: 2015-09-22 22:01:11
    :Download URL: https://pypi.python.org/pypi/sbo-sphinx
 
    .. |sbo-sphinx-py_versions| image:: https://pypip.in/py_versions/sbo-sphinx/badge.svg
@@ -150,8 +150,8 @@ miscellaneous extensions
    Sphinx extension for SeqAn Sphinx document
 
    :author:  Manuel Holtgrewe
-   :version: 0.3.0
-   :release: 2014-12-15 14:23:34
+   :version: 0.3.2
+   :release: unknown
    :Download URL: https://pypi.python.org/pypi/seqansphinx
 
    .. |seqansphinx-py_versions| image:: https://pypip.in/py_versions/seqansphinx/badge.svg
@@ -170,8 +170,8 @@ miscellaneous extensions
    Sphinx directive to add unselectable prompt
 
    :author:  Stéphane Brunner
-   :version: 0.2.2
-   :release: 2014-01-17 13:25:53
+   :version: 1.0.0
+   :release: 2015-06-07 11:54:01
    :Download URL: https://pypi.python.org/pypi/sphinx-prompt
 
    .. |sphinx-prompt-py_versions| image:: https://pypip.in/py_versions/sphinx-prompt/badge.svg
@@ -210,8 +210,8 @@ miscellaneous extensions
    Documentation inheritance functionality for Sphinx
 
    :author:  NaN·tic
-   :version: 0.8.0
-   :release: 2015-05-15 13:35:35
+   :version: 0.9.0
+   :release: 2017-02-09 17:55:48
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-inheritance
 
    .. |sphinxcontrib-inheritance-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-inheritance/badge.svg
@@ -230,8 +230,8 @@ miscellaneous extensions
    Sphinx/Paver integration
 
    :author:  Doug Hellmann
-   :version: 1.9.0
-   :release: 2015-06-04 11:52:53
+   :version: 1.16.0
+   :release: 2016-12-29 18:58:18
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-paverutils
 
    .. |sphinxcontrib-paverutils-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-paverutils/badge.svg
@@ -270,8 +270,8 @@ miscellaneous extensions
    Robot Framework extension for Sphinx
 
    :author:  Asko Soukka
-   :version: 0.5.0
-   :release: 2014-12-24 07:52:33
+   :version: 0.6.1
+   :release: 2016-09-25 12:35:22
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-robotframework
 
    .. |sphinxcontrib-robotframework-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-robotframework/badge.svg
@@ -358,8 +358,8 @@ miscellaneous extensions
    Sphinx mapping role
 
    :author:  Patrick Snape
-   :version: 0.2.1
-   :release: 2015-01-30 15:03:00
+   :version: 0.2.2
+   :release: 2016-02-23 14:00:06
    :Download URL: https://pypi.python.org/pypi/sphinxmapxrefrole
 
    .. |sphinxmapxrefrole-py_versions| image:: https://pypip.in/py_versions/sphinxmapxrefrole/badge.svg
@@ -378,8 +378,8 @@ miscellaneous extensions
    Tryton markup for Sphinx
 
    :author:  NaN Projectes de Programari Lliure, S.L.
-   :version: 0.8
-   :release: 2015-05-06 08:39:41
+   :version: 0.13
+   :release: 2017-02-09 17:48:38
    :Download URL: https://pypi.python.org/pypi/trydoc
 
    .. |trydoc-py_versions| image:: https://pypip.in/py_versions/trydoc/badge.svg

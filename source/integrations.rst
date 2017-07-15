@@ -1,4 +1,4 @@
-integrations (4)
+integrations (3)
 ================
 
 Integrates with other documents
@@ -52,24 +52,4 @@ Integrates with other documents
 
    .. |sphinxcontrib-doxylink-download| image:: https://pypip.in/download/sphinxcontrib-doxylink/badge.svg
       :target: https://pypi.python.org/pypi/sphinxcontrib-doxylink/
-      :alt: Downloads
-
-.. container:: sphinx-extension PyPI
-
-   :extension-name:`sphinxcontrib-epydoc`
-   |sphinxcontrib-epydoc-py_versions| |sphinxcontrib-epydoc-download|
-
-   Epydoc cross-referencing for Sphinx
-
-   :author:  Sebastian Wiesner
-   :version: 0.6
-   :release: 2012-06-28 10:44:54
-   :Download URL: https://pypi.python.org/pypi/sphinxcontrib-epydoc
-
-   .. |sphinxcontrib-epydoc-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-epydoc/badge.svg
-      :target: https://pypi.python.org/pypi/sphinxcontrib-epydoc/
-      :alt: Latest Version
-
-   .. |sphinxcontrib-epydoc-download| image:: https://pypip.in/download/sphinxcontrib-epydoc/badge.svg
-      :target: https://pypi.python.org/pypi/sphinxcontrib-epydoc/
       :alt: Downloads

@@ -82,8 +82,8 @@ Enhances features of Sphinx
    Sphinx extension to support docstrings in Numpy format
 
    :author:  Pauli Virtanen and others
-   :version: 0.5
-   :release: 2014-06-08 20:14:59
+   :version: 0.7.0
+   :release: 2017-06-20 09:54:49
    :Download URL: https://pypi.python.org/pypi/numpydoc
 
    .. |numpydoc-py_versions| image:: https://pypip.in/py_versions/numpydoc/badge.svg
@@ -166,8 +166,8 @@ Enhances features of Sphinx
    Allows param links in Sphinx function/method descriptions to be linkable
 
    :author:  Mike Bayer
-   :version: 0.2.2
-   :release: 2014-01-20 23:31:14
+   :version: 0.3.4
+   :release: 2017-05-05 13:16:44
    :Download URL: https://pypi.python.org/pypi/sphinx-paramlinks
 
    .. |sphinx-paramlinks-py_versions| image:: https://pypip.in/py_versions/sphinx-paramlinks/badge.svg
@@ -246,8 +246,8 @@ Enhances features of Sphinx
    Sphinx "images" extension
 
    :author:  Tomasz Czyż
-   :version: 0.5.0
-   :release: 2015-02-24 20:55:51
+   :version: 0.7.0
+   :release: 2016-01-12 00:23:55
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-images
 
    .. |sphinxcontrib-images-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-images/badge.svg
@@ -326,8 +326,8 @@ Enhances features of Sphinx
    Sphinx "napoleon" extension.
 
    :author:  Rob Ruana
-   :version: 0.3.6
-   :release: 2015-05-27 18:22:40
+   :version: 0.6.1
+   :release: 2017-02-28 04:49:08
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-napoleon
 
    .. |sphinxcontrib-napoleon-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-napoleon/badge.svg

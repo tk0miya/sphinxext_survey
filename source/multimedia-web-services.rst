@@ -62,8 +62,8 @@ Inserts multimedia contents and contents from Web services
    Sphinx "nicovideo" extension
 
    :author:  Takeshi KOMIYA
-   :version: 0.1.0
-   :release: 2011-12-07 14:55:47
+   :version: 0.1.1
+   :release: 2016-12-02 13:00:48
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-nicovideo
 
    .. |sphinxcontrib-nicovideo-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-nicovideo/badge.svg
@@ -142,8 +142,8 @@ Inserts multimedia contents and contents from Web services
    embedding twitter's tweet in sphinx
 
    :author:  @shomah4a
-   :version: 0.3.0
-   :release: 2013-11-16 02:51:35
+   :version: 0.4.0
+   :release: 2015-12-03 01:45:28
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib.twitter
 
    .. |sphinxcontrib.twitter-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib.twitter/badge.svg

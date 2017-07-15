@@ -1,4 +1,4 @@
-autodoc (26)
+autodoc (27)
 ============
 
 Generates documentation from source code or others
@@ -14,8 +14,8 @@ Generates documentation from source code or others
    Sphinx Doxygen renderer
 
    :author:  Michael Jones
-   :version: 4.0.0
-   :release: 2015-04-02 07:14:14
+   :version: 4.6.0
+   :release: 2017-02-25 10:41:46
    :Download URL: https://pypi.python.org/pypi/breathe
 
    .. |breathe-py_versions| image:: https://pypip.in/py_versions/breathe/badge.svg
@@ -222,8 +222,8 @@ Generates documentation from source code or others
    Sphinx extension: auto-generates API docs from Zope interfaces
 
    :author:  Agendaless Consulting
-   :version: 0.7.1
-   :release: 2012-09-16 19:25:22
+   :version: 0.8
+   :release: 2016-03-29 00:42:23
    :Download URL: https://pypi.python.org/pypi/repoze.sphinx.autointerface
 
    .. |repoze.sphinx.autointerface-py_versions| image:: https://pypip.in/py_versions/repoze.sphinx.autointerface/badge.svg
@@ -267,11 +267,11 @@ Generates documentation from source code or others
    :extension-name:`sphinx-argparse`
    |sphinx-argparse-py_versions| |sphinx-argparse-download|
 
-   Sphinx extension that automatically document argparse commands and options
+   Sphinx extension that automatically documents argparse commands and options
 
-   :author:  Aleksandr Rudakov
-   :version: 0.1.15
-   :release: 2015-04-06 09:47:54
+   :author:  Aleksandr Rudakov and Devon Ryan
+   :version: 0.2.1
+   :release: 2017-06-12 12:37:27
    :Download URL: https://pypi.python.org/pypi/sphinx-argparse
 
    .. |sphinx-argparse-py_versions| image:: https://pypip.in/py_versions/sphinx-argparse/badge.svg
@@ -289,9 +289,9 @@ Generates documentation from source code or others
 
    Use Python 3 annotations in sphinx-enabled docstrings
 
-   :author:  Virgil Dupras
-   :version: 1.0
-   :release: 2013-12-31 22:06:36
+   :author:  Virgil Dupras; (Current maintainer: Nicolas Hainaux)
+   :version: 1.0-1
+   :release: 2016-08-16 05:51:01
    :Download URL: https://pypi.python.org/pypi/sphinx-autodoc-annotation
 
    .. |sphinx-autodoc-annotation-py_versions| image:: https://pypip.in/py_versions/sphinx-autodoc-annotation/badge.svg
@@ -300,6 +300,26 @@ Generates documentation from source code or others
 
    .. |sphinx-autodoc-annotation-download| image:: https://pypip.in/download/sphinx-autodoc-annotation/badge.svg
       :target: https://pypi.python.org/pypi/sphinx-autodoc-annotation/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
+   :extension-name:`sphinx-js`
+   |sphinx-js-py_versions| |sphinx-js-download|
+
+   Support for using Sphinx on JSDoc-documented JS code
+
+   :author:  Erik Rose
+   :version: 2.0.1
+   :release: 2017-07-13 21:35:37
+   :Download URL: https://pypi.python.org/pypi/sphinx-js/
+
+   .. |sphinx-js-py_versions| image:: https://pypip.in/py_versions/sphinx-js/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-js/
+      :alt: Latest Version
+
+   .. |sphinx-js-download| image:: https://pypip.in/download/sphinx-js/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-js/
       :alt: Downloads
 
 .. container:: sphinx-extension PyPI
@@ -350,8 +370,8 @@ Generates documentation from source code or others
    Documenting CLI programs
 
    :author:  Hong Minhee
-   :version: 0.1.1
-   :release: 2014-04-22 13:37:05
+   :version: 0.1.3
+   :release: 2016-10-06 20:01:48
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-autoprogram
 
    .. |sphinxcontrib-autoprogram-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-autoprogram/badge.svg
@@ -370,8 +390,8 @@ Generates documentation from source code or others
    Include comments from source file Sphinx extension
 
    :author:  Vilibald W.
-   :version: 0.1dev-20140417
-   :release: 2014-04-17 19:51:47
+   :version: 0.2
+   :release: 2017-05-24 09:52:48
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-cmtinc
 
    .. |sphinxcontrib-cmtinc-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-cmtinc/badge.svg
@@ -390,8 +410,8 @@ Generates documentation from source code or others
    Sphinx "cqlengine" extension
 
    :author:  Kai Lautaportti
-   :version: 0.2
-   :release: 2014-11-08 22:41:24
+   :version: 1.0
+   :release: 2016-03-21 22:22:36
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-cqlengine
 
    .. |sphinxcontrib-cqlengine-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-cqlengine/badge.svg
@@ -427,11 +447,11 @@ Generates documentation from source code or others
    :extension-name:`sphinxcontrib-robotdoc`
    |sphinxcontrib-robotdoc-py_versions| |sphinxcontrib-robotdoc-download|
 
-   Sphinx extension to embed Robot Framework test cases and and user keywords into Sphinx documents
+   Sphinx extension to embed Robot Framework test cases and user keywords into Sphinx documents
 
    :author:  Asko Soukka
-   :version: 0.7.4
-   :release: 2014-09-05 08:26:54
+   :version: 0.9.1
+   :release: 2017-05-31 17:41:18
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-robotdoc
 
    .. |sphinxcontrib-robotdoc-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-robotdoc/badge.svg

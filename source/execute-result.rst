@@ -137,9 +137,9 @@ Executes commands or codes, and takes the results to document
 
    Sphinx extension to include program output
 
-   :author:  Sebastian Wiesner
-   :version: 0.8
-   :release: 2012-10-12 12:57:56
+   :author:  Jason Madden
+   :version: 0.11
+   :release: 2017-05-18 16:36:41
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-programoutput
 
    .. |sphinxcontrib-programoutput-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-programoutput/badge.svg

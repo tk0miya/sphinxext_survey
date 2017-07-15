@@ -1,4 +1,4 @@
-website/blogs (15)
+website/blogs (14)
 ==================
 
 Extensions for Web sites and blogging
@@ -14,8 +14,8 @@ Extensions for Web sites and blogging
    ABlog for blogging with Sphinx
 
    :author:  Ahmet Bakan
-   :version: 0.7.0
-   :release: 2015-05-03 19:14:58
+   :version: 0.8.4
+   :release: 2016-11-01 04:59:03
    :Download URL: https://pypi.python.org/pypi/ablog
 
    .. |ablog-py_versions| image:: https://pypip.in/py_versions/ablog/badge.svg
@@ -31,11 +31,11 @@ Extensions for Web sites and blogging
    :extension-name:`pylons_sphinx_latesturl`
    |pylons_sphinx_latesturl-py_versions| |pylons_sphinx_latesturl-download|
 
-   Sphinx extension: generate "latest" URL for versioned docs
+   Sphinx extension: generate
 
    :author:  Agendaless Consulting
-   :version: 0.1.1
-   :release: 2013-09-09 22:02:51
+   :version: 0.2
+   :release: 2016-02-18 14:25:20
    :Download URL: https://pypi.python.org/pypi/pylons_sphinx_latesturl
 
    .. |pylons_sphinx_latesturl-py_versions| image:: https://pypip.in/py_versions/pylons_sphinx_latesturl/badge.svg
@@ -84,34 +84,14 @@ Extensions for Web sites and blogging
 
 .. container:: sphinx-extension PyPI
 
-   :extension-name:`sphinxcontrib-ansi`
-   |sphinxcontrib-ansi-py_versions| |sphinxcontrib-ansi-download|
-
-   Sphinx extension ansi
-
-   :author:  Sebastian Wiesner
-   :version: 0.6
-   :release: 2011-07-08 18:06:53
-   :Download URL: https://pypi.python.org/pypi/sphinxcontrib-ansi
-
-   .. |sphinxcontrib-ansi-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-ansi/badge.svg
-      :target: https://pypi.python.org/pypi/sphinxcontrib-ansi/
-      :alt: Latest Version
-
-   .. |sphinxcontrib-ansi-download| image:: https://pypip.in/download/sphinxcontrib-ansi/badge.svg
-      :target: https://pypi.python.org/pypi/sphinxcontrib-ansi/
-      :alt: Downloads
-
-.. container:: sphinx-extension PyPI
-
    :extension-name:`sphinxcontrib-fulltoc`
    |sphinxcontrib-fulltoc-py_versions| |sphinxcontrib-fulltoc-download|
 
    Include a full table of contents in your Sphinx HTML sidebar
 
    :author:  Doug Hellmann
-   :version: 1.1
-   :release: 2014-11-13 18:06:41
+   :version: 1.2.0
+   :release: 2017-04-10 14:12:57
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-fulltoc
 
    .. |sphinxcontrib-fulltoc-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-fulltoc/badge.svg
@@ -258,8 +238,8 @@ Extensions for Web sites and blogging
    Yet Another Sphinx Feed Builder
 
    :author:  Doug Hellmann
-   :version: 0.5.1
-   :release: 2014-09-09 22:10:50
+   :version: 0.6.1
+   :release: 2017-04-13 20:50:43
    :Download URL: https://pypi.python.org/pypi/yasfb
 
    .. |yasfb-py_versions| image:: https://pypip.in/py_versions/yasfb/badge.svg

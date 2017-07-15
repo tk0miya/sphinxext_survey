@@ -14,8 +14,8 @@ Enables to mark up changelog, history and version info
    Provides simple Sphinx markup to render changelog displays.
 
    :author:  Mike Bayer
-   :version: 0.3.4
-   :release: 2014-01-11 18:10:35
+   :version: 0.3.5
+   :release: 2016-11-11 17:02:53
    :Download URL: https://pypi.python.org/pypi/changelog
 
    .. |changelog-py_versions| image:: https://pypip.in/py_versions/changelog/badge.svg
@@ -54,8 +54,8 @@ Enables to mark up changelog, history and version info
    A Sphinx extension for changelog manipulation
 
    :author:  Jeff Forcier
-   :version: 0.7.0
-   :release: 2014-09-05 02:21:57
+   :version: 1.3.1
+   :release: 2017-05-18 22:21:45
    :Download URL: https://pypi.python.org/pypi/releases
 
    .. |releases-py_versions| image:: https://pypip.in/py_versions/releases/badge.svg
@@ -74,8 +74,8 @@ Enables to mark up changelog, history and version info
    git Changelog for Sphinx
 
    :author:  Daniel Watkins
-   :version: 9
-   :release: 2015-02-23 16:22:28
+   :version: 10.0.0
+   :release: 2016-02-22 11:48:36
    :Download URL: https://pypi.python.org/pypi/sphinx-git
 
    .. |sphinx-git-py_versions| image:: https://pypip.in/py_versions/sphinx-git/badge.svg
@@ -94,8 +94,8 @@ Enables to mark up changelog, history and version info
    Sphinx extension for embedding sequences of file alterations
 
    :author:  Xavier Morel
-   :version: 0.4.0
-   :release: 2014-08-07 09:05:22
+   :version: 0.5.0
+   :release: 2015-09-15 16:40:13
    :Download URL: https://pypi.python.org/pypi/sphinx-patchqueue
 
    .. |sphinx-patchqueue-py_versions| image:: https://pypip.in/py_versions/sphinx-patchqueue/badge.svg
