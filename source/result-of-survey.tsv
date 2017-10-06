@@ -227,3 +227,4 @@ sphinxfeed	https://pypi.python.org/pypi/sphinxfeed	PyPI	website/blogs	generate R
 sphinxtogithub	https://pypi.python.org/pypi/sphinxtogithub	PyPI	website/blogs	rename directories for github pages
 yasfb	https://pypi.python.org/pypi/yasfb	PyPI	website/blogs	generate RSS
 sphinx-js	https://pypi.python.org/pypi/sphinx-js/	PyPI	autodoc	Autodoc for JSDoc-formatted JavaScript
+sphinxcontrib-confluencebuilder	https://pypi.python.org/pypi/sphinxcontrib-confluencebuilder/	PyPI	builders	Atlassian Confluence Builder for Sphinx
