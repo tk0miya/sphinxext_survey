@@ -74,8 +74,8 @@ Tools for Sphinx
    Sphinx utility that make it easy to translate and to apply translation.
 
    :author:  Takayuki SHIMIZUKAWA
-   :version: 0.9.9
-   :release: 2016-01-17 05:36:28
+   :version: 0.9.10
+   :release: 2017-09-13 10:13:47
    :Download URL: https://pypi.python.org/pypi/sphinx-intl
 
    .. |sphinx-intl-py_versions| image:: https://pypip.in/py_versions/sphinx-intl/badge.svg

@@ -14,8 +14,8 @@ Generates documentation from source code or others
    Sphinx Doxygen renderer
 
    :author:  Michael Jones
-   :version: 4.6.0
-   :release: 2017-02-25 10:41:46
+   :version: 4.7.2
+   :release: 2017-08-17 21:57:07
    :Download URL: https://pypi.python.org/pypi/breathe
 
    .. |breathe-py_versions| image:: https://pypip.in/py_versions/breathe/badge.svg
@@ -310,8 +310,8 @@ Generates documentation from source code or others
    Support for using Sphinx on JSDoc-documented JS code
 
    :author:  Erik Rose
-   :version: 2.0.1
-   :release: 2017-07-13 21:35:37
+   :version: 2.1
+   :release: 2017-08-30 19:09:48
    :Download URL: https://pypi.python.org/pypi/sphinx-js/
 
    .. |sphinx-js-py_versions| image:: https://pypip.in/py_versions/sphinx-js/badge.svg

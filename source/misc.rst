@@ -14,8 +14,8 @@ miscellaneous extensions
    Abjad is a Python API for Formalized Score Control.
 
    :author:  Trevor Bača, Josiah Wolf Oberholtzer, Víctor Adán
-   :version: 2.20
-   :release: 2017-05-04 04:03:31
+   :version: 2.21
+   :release: 2017-08-04 00:43:54
    :Download URL: https://pypi.python.org/pypi/Abjad/2.11
 
    .. |abjad-py_versions| image:: https://pypip.in/py_versions/abjad/badge.svg
@@ -42,8 +42,8 @@ miscellaneous extensions
    Extract scripts from a reST document and apply them in order.
 
    :author:  Lele Gaifax
-   :version: 2.25
-   :release: 2017-06-29 11:05:19
+   :version: 2.26
+   :release: 2017-09-27 22:10:09
    :Download URL: https://pypi.python.org/pypi/metapensiero.sphinx.patchdb
 
    .. |metapensiero.sphinx.patchdb-py_versions| image:: https://pypip.in/py_versions/metapensiero.sphinx.patchdb/badge.svg
@@ -270,8 +270,8 @@ miscellaneous extensions
    Robot Framework extension for Sphinx
 
    :author:  Asko Soukka
-   :version: 0.6.1
-   :release: 2016-09-25 12:35:22
+   :version: 0.7.0
+   :release: 2017-10-03 12:56:43
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-robotframework
 
    .. |sphinxcontrib-robotframework-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-robotframework/badge.svg

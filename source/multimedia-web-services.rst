@@ -142,8 +142,8 @@ Inserts multimedia contents and contents from Web services
    embedding twitter's tweet in sphinx
 
    :author:  @shomah4a
-   :version: 0.4.0
-   :release: 2015-12-03 01:45:28
+   :version: 0.5.0
+   :release: 2017-10-01 08:40:06
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib.twitter
 
    .. |sphinxcontrib.twitter-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib.twitter/badge.svg

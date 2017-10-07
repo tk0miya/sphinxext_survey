@@ -158,8 +158,8 @@ Adds Sphinx roles
    Sphinx "textstyle" extension
 
    :author:  WAKAYAMA Shirou
-   :version: 0.2.2
-   :release: 2017-01-24 02:14:33
+   :version: 0.2.3
+   :release: 2017-09-24 13:13:24
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-textstyle
 
    .. |sphinxcontrib-textstyle-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-textstyle/badge.svg

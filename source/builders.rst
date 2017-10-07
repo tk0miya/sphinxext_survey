@@ -1,4 +1,4 @@
-builders (11)
+builders (12)
 =============
 
 Enables to output document as new format
@@ -14,8 +14,8 @@ Enables to output document as new format
    Generate HTML presentations from plain text sources with all the power of Sphinx.
 
    :author:  Nathan Yergler
-   :version: 0.7.1
-   :release: 2015-03-28 17:07:46
+   :version: 1.0.0
+   :release: 2017-09-07 23:58:44
    :Download URL: https://pypi.python.org/pypi/hieroglyph
 
    .. |hieroglyph-py_versions| image:: https://pypip.in/py_versions/hieroglyph/badge.svg
@@ -77,6 +77,26 @@ Enables to output document as new format
    :author:  haraisao
    :Download URL: https://bitbucket.org/haraisao/sphinx-docxbuilder/
    :Note: docx builder
+
+.. container:: sphinx-extension PyPI
+
+   :extension-name:`sphinxcontrib-confluencebuilder`
+   |sphinxcontrib-confluencebuilder-py_versions| |sphinxcontrib-confluencebuilder-download|
+
+   Sphinx extension to output Atlassian Confluence Wiki files and publish to Confluence Servers.
+
+   :author:  Anthony Shaw
+   :version: 0.6
+   :release: 2017-04-23 02:10:44
+   :Download URL: https://pypi.python.org/pypi/sphinxcontrib-confluencebuilder/
+
+   .. |sphinxcontrib-confluencebuilder-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-confluencebuilder/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-confluencebuilder/
+      :alt: Latest Version
+
+   .. |sphinxcontrib-confluencebuilder-download| image:: https://pypip.in/download/sphinxcontrib-confluencebuilder/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-confluencebuilder/
+      :alt: Downloads
 
 .. container:: sphinx-extension PyPI
 
