@@ -1,4 +1,4 @@
-integrations (3)
+integrations (4)
 ================
 
 Integrates with other documents
@@ -42,8 +42,8 @@ Integrates with other documents
    Sphinx extension for linking to Doxygen documentation.
 
    :author:  Matt Williams
-   :version: 1.3
-   :release: 2012-09-13 10:59:34
+   :version: 1.6.1
+   :release: 2019-04-27 21:28:03
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-doxylink
 
    .. |sphinxcontrib-doxylink-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-doxylink/badge.svg
@@ -52,4 +52,24 @@ Integrates with other documents
 
    .. |sphinxcontrib-doxylink-download| image:: https://pypip.in/download/sphinxcontrib-doxylink/badge.svg
       :target: https://pypi.python.org/pypi/sphinxcontrib-doxylink/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
+   :extension-name:`sphinxcontrib-epydoc`
+   |sphinxcontrib-epydoc-py_versions| |sphinxcontrib-epydoc-download|
+
+   
+
+   :author:  unknown
+   :version: unknown
+   :release: unknown
+   :Download URL: https://pypi.python.org/pypi/sphinxcontrib-epydoc
+
+   .. |sphinxcontrib-epydoc-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-epydoc/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-epydoc/
+      :alt: Latest Version
+
+   .. |sphinxcontrib-epydoc-download| image:: https://pypip.in/download/sphinxcontrib-epydoc/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-epydoc/
       :alt: Downloads

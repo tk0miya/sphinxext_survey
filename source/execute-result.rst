@@ -79,7 +79,7 @@ Executes commands or codes, and takes the results to document
 
    :author:  Kirill Simonov (Prometheus Research, LLC)
    :version: 0.1.4
-   :release: 2015-02-18 23:52:32
+   :release: 2015-02-18 23:52:35
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-jsdemo
 
    .. |sphinxcontrib-jsdemo-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-jsdemo/badge.svg
@@ -137,9 +137,9 @@ Executes commands or codes, and takes the results to document
 
    Sphinx extension to include program output
 
-   :author:  Jason Madden
-   :version: 0.11
-   :release: 2017-05-18 16:36:41
+   :author:  Sebastian Wiesner
+   :version: 0.16
+   :release: 2020-03-23 14:19:39
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-programoutput
 
    .. |sphinxcontrib-programoutput-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-programoutput/badge.svg

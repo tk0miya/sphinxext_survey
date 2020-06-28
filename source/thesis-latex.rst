@@ -30,8 +30,8 @@ Extensions for thesis and LaTeX
    A Sphinx extension for BibTeX style citations.
 
    :author:  Matthias C. M. Troffaes
-   :version: 0.3.6
-   :release: 2017-09-25 08:46:14
+   :version: 1.0.0
+   :release: 2019-09-20 10:01:12
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-bibtex
 
    .. |sphinxcontrib-bibtex-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-bibtex/badge.svg

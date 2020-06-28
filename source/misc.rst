@@ -14,8 +14,8 @@ miscellaneous extensions
    Abjad is a Python API for Formalized Score Control.
 
    :author:  Trevor Bača, Josiah Wolf Oberholtzer, Víctor Adán
-   :version: 2.21
-   :release: 2017-08-04 00:43:54
+   :version: 3.1
+   :release: 2019-12-18 21:11:00
    :Download URL: https://pypi.python.org/pypi/Abjad/2.11
 
    .. |abjad-py_versions| image:: https://pypip.in/py_versions/abjad/badge.svg
@@ -42,8 +42,8 @@ miscellaneous extensions
    Extract scripts from a reST document and apply them in order.
 
    :author:  Lele Gaifax
-   :version: 2.26
-   :release: 2017-09-27 22:10:09
+   :version: 3.7
+   :release: 2019-12-20 10:04:06
    :Download URL: https://pypi.python.org/pypi/metapensiero.sphinx.patchdb
 
    .. |metapensiero.sphinx.patchdb-py_versions| image:: https://pypip.in/py_versions/metapensiero.sphinx.patchdb/badge.svg
@@ -131,7 +131,7 @@ miscellaneous extensions
 
    :author:  Jeremy Bowman
    :version: 2.2.0
-   :release: 2015-09-22 22:01:11
+   :release: 2015-09-22 22:01:23
    :Download URL: https://pypi.python.org/pypi/sbo-sphinx
 
    .. |sbo-sphinx-py_versions| image:: https://pypip.in/py_versions/sbo-sphinx/badge.svg
@@ -150,8 +150,8 @@ miscellaneous extensions
    Sphinx extension for SeqAn Sphinx document
 
    :author:  Manuel Holtgrewe
-   :version: 0.3.2
-   :release: unknown
+   :version: 0.4.0
+   :release: 2019-12-13 06:47:14
    :Download URL: https://pypi.python.org/pypi/seqansphinx
 
    .. |seqansphinx-py_versions| image:: https://pypip.in/py_versions/seqansphinx/badge.svg
@@ -169,9 +169,9 @@ miscellaneous extensions
 
    Sphinx directive to add unselectable prompt
 
-   :author:  Stéphane Brunner
-   :version: 1.0.0
-   :release: 2015-06-07 11:54:01
+   :author:  
+   :version: 1.2.0
+   :release: 2020-05-11 13:06:33
    :Download URL: https://pypi.python.org/pypi/sphinx-prompt
 
    .. |sphinx-prompt-py_versions| image:: https://pypip.in/py_versions/sphinx-prompt/badge.svg
@@ -230,8 +230,8 @@ miscellaneous extensions
    Sphinx/Paver integration
 
    :author:  Doug Hellmann
-   :version: 1.16.0
-   :release: 2016-12-29 18:58:18
+   :version: 1.17.0
+   :release: 2018-03-18 23:54:28
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-paverutils
 
    .. |sphinxcontrib-paverutils-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-paverutils/badge.svg
@@ -270,8 +270,8 @@ miscellaneous extensions
    Robot Framework extension for Sphinx
 
    :author:  Asko Soukka
-   :version: 0.7.0
-   :release: 2017-10-03 12:56:43
+   :version: 0.8.0
+   :release: 2018-05-11 18:35:16
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-robotframework
 
    .. |sphinxcontrib-robotframework-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-robotframework/badge.svg

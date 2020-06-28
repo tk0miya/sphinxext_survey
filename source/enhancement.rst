@@ -82,8 +82,8 @@ Enhances features of Sphinx
    Sphinx extension to support docstrings in Numpy format
 
    :author:  Pauli Virtanen and others
-   :version: 0.7.0
-   :release: 2017-06-20 09:54:49
+   :version: 1.0.0
+   :release: 2020-05-26 14:13:26
    :Download URL: https://pypi.python.org/pypi/numpydoc
 
    .. |numpydoc-py_versions| image:: https://pypip.in/py_versions/numpydoc/badge.svg
@@ -166,8 +166,8 @@ Enhances features of Sphinx
    Allows param links in Sphinx function/method descriptions to be linkable
 
    :author:  Mike Bayer
-   :version: 0.3.4
-   :release: 2017-05-05 13:16:44
+   :version: 0.4.2
+   :release: 2020-05-29 18:22:37
    :Download URL: https://pypi.python.org/pypi/sphinx-paramlinks
 
    .. |sphinx-paramlinks-py_versions| image:: https://pypip.in/py_versions/sphinx-paramlinks/badge.svg
@@ -207,7 +207,7 @@ Enhances features of Sphinx
 
    :author:  Tomek Czyż
    :version: 0.3.5
-   :release: 2014-09-10 22:24:24
+   :release: 2014-09-10 22:24:27
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-fancybox
 
    .. |sphinxcontrib-fancybox-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-fancybox/badge.svg
@@ -223,11 +223,11 @@ Enhances features of Sphinx
    :extension-name:`sphinxcontrib-getthecode`
    |sphinxcontrib-getthecode-py_versions| |sphinxcontrib-getthecode-download|
 
-   Sphinx "getthecode" extension
+   Sphinx getthecode extension
 
-   :author:  Fabrice Salvaire
-   :version: 0.1dev-20140921
-   :release: 2014-09-21 18:26:21
+   :author:  Fabrice SALVAIRE
+   :version: 1.2.1
+   :release: 2020-05-18 19:58:04
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-getthecode
 
    .. |sphinxcontrib-getthecode-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-getthecode/badge.svg
@@ -243,11 +243,11 @@ Enhances features of Sphinx
    :extension-name:`sphinxcontrib-images`
    |sphinxcontrib-images-py_versions| |sphinxcontrib-images-download|
 
-   Sphinx "images" extension
+   Sphinx extension for thumbnails
 
    :author:  Tomasz Czyż
-   :version: 0.7.0
-   :release: 2016-01-12 00:23:55
+   :version: 0.9.2
+   :release: 2020-04-07 23:12:12
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-images
 
    .. |sphinxcontrib-images-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-images/badge.svg
@@ -326,8 +326,8 @@ Enhances features of Sphinx
    Sphinx "napoleon" extension.
 
    :author:  Rob Ruana
-   :version: 0.6.1
-   :release: 2017-02-28 04:49:08
+   :version: 0.7
+   :release: 2018-09-23 14:16:45
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-napoleon
 
    .. |sphinxcontrib-napoleon-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-napoleon/badge.svg

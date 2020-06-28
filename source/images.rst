@@ -1,4 +1,4 @@
-images (32)
+images (33)
 ===========
 
 Inserts (generates) images to document
@@ -98,8 +98,8 @@ Inserts (generates) images to document
    A simple sphinx extension to generate UML diagrams with pyreverse
 
    :author:  Dimitri Vorona
-   :version: 0.0.12
-   :release: 2012-10-08 21:42:01
+   :version: 0.0.13
+   :release: 2019-10-10 07:00:13
    :Download URL: https://pypi.python.org/pypi/sphinx-pyreverse
 
    .. |sphinx-pyreverse-py_versions| image:: https://pypip.in/py_versions/sphinx-pyreverse/badge.svg
@@ -158,8 +158,8 @@ Inserts (generates) images to document
    Sphinx "actdiag" extension
 
    :author:  Takeshi KOMIYA
-   :version: 0.8.5
-   :release: 2015-12-01 15:02:01
+   :version: 2.0.0
+   :release: 2019-12-08 16:37:10
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-actdiag
 
    .. |sphinxcontrib-actdiag-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-actdiag/badge.svg
@@ -179,7 +179,7 @@ Inserts (generates) images to document
 
    :author:  Takeshi KOMIYA
    :version: 1.0.0
-   :release: 2015-06-26 08:22:55
+   :release: 2015-06-26 08:22:58
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-astah
 
    .. |sphinxcontrib-astah-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-astah/badge.svg
@@ -218,8 +218,8 @@ Inserts (generates) images to document
    Sphinx "blockdiag" extension
 
    :author:  Takeshi KOMIYA
-   :version: 1.5.5
-   :release: 2015-12-01 14:31:43
+   :version: 2.0.0
+   :release: 2019-12-08 10:22:37
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-blockdiag
 
    .. |sphinxcontrib-blockdiag-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-blockdiag/badge.svg
@@ -238,8 +238,8 @@ Inserts (generates) images to document
    Sphinx "cacoo" extension; embed diagram from cacoo
 
    :author:  Takeshi KOMIYA
-   :version: 1.1.0
-   :release: 2015-12-11 15:10:33
+   :version: 2.0.0
+   :release: 2018-04-12 14:30:52
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-cacoo
 
    .. |sphinxcontrib-cacoo-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-cacoo/badge.svg
@@ -279,7 +279,7 @@ Inserts (generates) images to document
 
    :author:  Takeshi KOMIYA
    :version: 0.2.1
-   :release: 2015-04-01 02:32:53
+   :release: 2015-04-01 02:32:57
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-googlechart
 
    .. |sphinxcontrib-googlechart-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-googlechart/badge.svg
@@ -299,7 +299,7 @@ Inserts (generates) images to document
 
    :author:  tell-k
    :version: 0.1.2
-   :release: 2015-01-01 15:45:21
+   :release: 2015-01-01 15:45:24
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-gravatar
 
    .. |sphinxcontrib-gravatar-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-gravatar/badge.svg
@@ -319,7 +319,7 @@ Inserts (generates) images to document
 
    :author:  Hideo Hattori
    :version: 0.1.1
-   :release: 2010-10-06 23:56:54
+   :release: 2010-10-06 23:58:33
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-gruffygen
 
    .. |sphinxcontrib-gruffygen-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-gruffygen/badge.svg
@@ -352,14 +352,34 @@ Inserts (generates) images to document
 
 .. container:: sphinx-extension PyPI
 
+   :extension-name:`sphinxcontrib-libreoffice`
+   |sphinxcontrib-libreoffice-py_versions| |sphinxcontrib-libreoffice-download|
+
+   
+
+   :author:  unknown
+   :version: unknown
+   :release: unknown
+   :Download URL: https://pypi.python.org/pypi/sphinxcontrib-libreoffice
+
+   .. |sphinxcontrib-libreoffice-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-libreoffice/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-libreoffice/
+      :alt: Latest Version
+
+   .. |sphinxcontrib-libreoffice-download| image:: https://pypip.in/download/sphinxcontrib-libreoffice/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-libreoffice/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
    :extension-name:`sphinxcontrib-mscgen`
    |sphinxcontrib-mscgen-py_versions| |sphinxcontrib-mscgen-download|
 
    mscgen Sphinx extension
 
    :author:  Leandro Lucarella
-   :version: 0.4
-   :release: 2009-11-21 23:11:15
+   :version: 0.5
+   :release: 2019-08-27 10:35:13
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-mscgen
 
    .. |sphinxcontrib-mscgen-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-mscgen/badge.svg
@@ -378,8 +398,8 @@ Inserts (generates) images to document
    Sphinx "nwdiag" extension
 
    :author:  Takeshi KOMIYA
-   :version: 0.9.5
-   :release: 2015-12-01 15:06:45
+   :version: 2.0.0
+   :release: 2019-12-10 17:02:12
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-nwdiag
 
    .. |sphinxcontrib-nwdiag-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-nwdiag/badge.svg
@@ -398,8 +418,8 @@ Inserts (generates) images to document
    Sphinx "plantuml" extension
 
    :author:  Yuya Nishihara
-   :version: 0.8.1
-   :release: 2016-05-10 13:27:19
+   :version: 0.18
+   :release: 2020-01-01 01:36:06
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-plantuml
 
    .. |sphinxcontrib-plantuml-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-plantuml/badge.svg
@@ -458,8 +478,8 @@ Inserts (generates) images to document
    Sphinx "sadisplay" extension
 
    :author:  Evgeniy Tatarkin
-   :version: 0.3.2dev-20130518
-   :release: 2013-05-18 11:48:32
+   :version: 0.3.3.dev20180712
+   :release: 2018-07-12 08:09:58
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-sadisplay
 
    .. |sphinxcontrib-sadisplay-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-sadisplay/badge.svg
@@ -498,8 +518,8 @@ Inserts (generates) images to document
    Sphinx "seqdiag" extension
 
    :author:  Takeshi KOMIYA
-   :version: 0.8.5
-   :release: 2015-12-01 14:59:25
+   :version: 2.0.0
+   :release: 2019-12-08 11:23:47
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-seqdiag
 
    .. |sphinxcontrib-seqdiag-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-seqdiag/badge.svg
@@ -519,7 +539,7 @@ Inserts (generates) images to document
 
    :author:  Kirill Simonov (Prometheus Research, LLC)
    :version: 0.1.3
-   :release: 2015-02-19 00:12:37
+   :release: 2015-02-19 00:12:40
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-texfigure
 
    .. |sphinxcontrib-texfigure-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-texfigure/badge.svg
@@ -538,8 +558,8 @@ Inserts (generates) images to document
    TikZ extension for Sphinx
 
    :author:  Christoph Reller
-   :version: 0.4.4
-   :release: 2017-03-29 06:51:41
+   :version: 0.4.8
+   :release: 2019-08-24 15:38:50
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-tikz
 
    .. |sphinxcontrib-tikz-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-tikz/badge.svg
@@ -559,7 +579,7 @@ Inserts (generates) images to document
 
    :author:  Takeshi KOMIYA
    :version: 2.1.2
-   :release: 2016-05-18 03:27:01
+   :release: 2016-05-18 03:27:15
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-visio
 
    .. |sphinxcontrib-visio-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-visio/badge.svg

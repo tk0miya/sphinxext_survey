@@ -1,4 +1,4 @@
-domains (28)
+domains (29)
 ============
 
 Adds language-domains
@@ -14,8 +14,8 @@ Adds language-domains
    Sphinx extension for Catkin projects
 
    :author:  William Woodall
-   :version: 0.2.2
-   :release: 2016-04-16 02:16:33
+   :version: 0.3.1
+   :release: 2020-01-15 23:32:57
    :Download URL: https://pypi.python.org/pypi/catkin-sphinx
 
    .. |catkin-sphinx-py_versions| image:: https://pypip.in/py_versions/catkin-sphinx/badge.svg
@@ -134,8 +134,8 @@ Adds language-domains
    Sphinx "adadomain" extension
 
    :author:  Tero Koskinen
-   :version: 0.1
-   :release: 2013-06-12 18:33:10
+   :version: 0.2
+   :release: 2018-01-19 18:47:01
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-adadomain
 
    .. |sphinxcontrib-adadomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-adadomain/badge.svg
@@ -234,8 +234,8 @@ Adds language-domains
    Sphinx extension for easy domain creation.
 
    :author:  Kay-Uwe (Kiwi) Lorenz
-   :version: 0.1
-   :release: 2013-10-24 04:07:12
+   :version: 0.3
+   :release: 2020-04-12 04:39:44
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-domaintools
 
    .. |sphinxcontrib-domaintools-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-domaintools/badge.svg
@@ -274,8 +274,8 @@ Adds language-domains
    Emacs documentation support for Sphinx
 
    :author:  Sebastian Wiesner
-   :version: 0.3.1
-   :release: 2014-12-20 09:16:45
+   :version: 0.4
+   :release: 2018-01-22 21:19:00
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-emacs
 
    .. |sphinxcontrib-emacs-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-emacs/badge.svg
@@ -295,7 +295,7 @@ Adds language-domains
 
    :author:  SHIBUKAWA Yoshiki
    :version: 0.1dev-20100827
-   :release: 2010-08-27 07:14:08
+   :release: 2010-08-27 07:13:39
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-erlangdomain
 
    .. |sphinxcontrib-erlangdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-erlangdomain/badge.svg
@@ -314,8 +314,8 @@ Adds language-domains
    Sphinx extension sphinxcontrib-golangdomain
 
    :author:  Yoshifumi YAMAGUCHI
-   :version: 0.1.3dev
-   :release: 2013-01-06 12:05:56
+   :version: 0.2.0.dev0
+   :release: 2018-04-08 09:23:25
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-golangdomain
 
    .. |sphinxcontrib-golangdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-golangdomain/badge.svg
@@ -331,11 +331,11 @@ Adds language-domains
    :extension-name:`sphinxcontrib-httpdomain`
    |sphinxcontrib-httpdomain-py_versions| |sphinxcontrib-httpdomain-download|
 
-   Sphinx domain for HTTP APIs
+   Sphinx domain for documenting HTTP APIs
 
    :author:  Hong Minhee
-   :version: 1.5.0
-   :release: 2016-05-29 18:16:14
+   :version: 1.7.0
+   :release: 2018-07-01 11:53:39
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-httpdomain
 
    .. |sphinxcontrib-httpdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-httpdomain/badge.svg
@@ -414,8 +414,8 @@ Adds language-domains
    Sphinx "matlabdomain" extension
 
    :author:  Mark Mikofski
-   :version: 0.2.8
-   :release: 2016-12-15 08:37:41
+   :version: 0.11.2
+   :release: 2020-05-18 20:46:38
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-matlabdomain
 
    .. |sphinxcontrib-matlabdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-matlabdomain/badge.svg
@@ -434,8 +434,8 @@ Adds language-domains
    Sphinx extension sphinxcontrib-operationdomain
 
    :author:  togakushi
-   :version: 0.1.0
-   :release: 2014-11-17 12:16:37
+   :version: 0.1.3
+   :release: 2018-02-27 14:04:08
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-operationdomain
 
    .. |sphinxcontrib-operationdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-operationdomain/badge.svg
@@ -454,8 +454,8 @@ Adds language-domains
    Sphinx extension to enable documenting PHP code
 
    :author:  Mark Story
-   :version: 0.2.5
-   :release: 2017-04-05 16:30:06
+   :version: 0.7.0
+   :release: 2020-03-04 02:10:38
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-phpdomain
 
    .. |sphinxcontrib-phpdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-phpdomain/badge.svg
@@ -504,4 +504,24 @@ Adds language-domains
 
    .. |sphinxcontrib-specdomain-download| image:: https://pypip.in/download/sphinxcontrib-specdomain/badge.svg
       :target: https://pypi.python.org/pypi/sphinxcontrib-specdomain/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
+   :extension-name:`sphinxcontrib-waspdomain`
+   |sphinxcontrib-waspdomain-py_versions| |sphinxcontrib-waspdomain-download|
+
+   
+
+   :author:  unknown
+   :version: unknown
+   :release: unknown
+   :Download URL: https://pypi.python.org/pypi/sphinxcontrib-waspdomain
+
+   .. |sphinxcontrib-waspdomain-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-waspdomain/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-waspdomain/
+      :alt: Latest Version
+
+   .. |sphinxcontrib-waspdomain-download| image:: https://pypip.in/download/sphinxcontrib-waspdomain/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-waspdomain/
       :alt: Downloads

@@ -63,7 +63,7 @@ Inserts multimedia contents and contents from Web services
 
    :author:  Takeshi KOMIYA
    :version: 0.1.1
-   :release: 2016-12-02 13:00:48
+   :release: 2016-12-02 13:00:51
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-nicovideo
 
    .. |sphinxcontrib-nicovideo-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-nicovideo/badge.svg
@@ -83,7 +83,7 @@ Inserts multimedia contents and contents from Web services
 
    :author:  Takeshi KOMIYA
    :version: 0.3.0
-   :release: 2014-08-21 12:45:25
+   :release: 2014-08-21 12:45:27
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-slide
 
    .. |sphinxcontrib-slide-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-slide/badge.svg

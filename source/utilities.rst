@@ -34,8 +34,8 @@ Tools for Sphinx
    Style checker for Sphinx (or other) RST documentation
 
    :author:  OpenStack
-   :version: 0.8.0
-   :release: 2017-03-29 10:47:15
+   :version: 0.8.1
+   :release: 2020-06-02 10:24:56
    :Download URL: https://pypi.python.org/pypi/doc8
 
    .. |doc8-py_versions| image:: https://pypip.in/py_versions/doc8/badge.svg
@@ -55,7 +55,7 @@ Tools for Sphinx
 
    :author:  Jonathan Stoppani
    :version: 0.7.1
-   :release: 2017-07-05 10:52:34
+   :release: 2017-07-05 10:52:36
    :Download URL: https://pypi.python.org/pypi/sphinx-autobuild
 
    .. |sphinx-autobuild-py_versions| image:: https://pypip.in/py_versions/sphinx-autobuild/badge.svg
@@ -74,8 +74,8 @@ Tools for Sphinx
    Sphinx utility that make it easy to translate and to apply translation.
 
    :author:  Takayuki SHIMIZUKAWA
-   :version: 0.9.10
-   :release: 2017-09-13 10:13:47
+   :version: 2.0.1
+   :release: 2020-04-27 16:36:10
    :Download URL: https://pypi.python.org/pypi/sphinx-intl
 
    .. |sphinx-intl-py_versions| image:: https://pypip.in/py_versions/sphinx-intl/badge.svg
@@ -95,7 +95,7 @@ Tools for Sphinx
 
    :author:  Stephen McDonald
    :version: 0.3
-   :release: 2014-08-03 01:33:13
+   :release: 2014-08-03 01:33:18
    :Download URL: https://pypi.python.org/pypi/sphinx-me
 
    .. |sphinx-me-py_versions| image:: https://pypip.in/py_versions/sphinx-me/badge.svg
@@ -114,8 +114,8 @@ Tools for Sphinx
    Sphinx spelling extension
 
    :author:  Doug Hellmann
-   :version: 2.3.0
-   :release: 2016-12-04 16:19:15
+   :version: 5.1.2
+   :release: 2020-06-22 14:53:58
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-spelling
 
    .. |sphinxcontrib-spelling-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-spelling/badge.svg

@@ -14,8 +14,8 @@ Generates documentation from source code or others
    Sphinx Doxygen renderer
 
    :author:  Michael Jones
-   :version: 4.7.2
-   :release: 2017-08-17 21:57:07
+   :version: 4.19.2
+   :release: 2020-06-17 20:05:27
    :Download URL: https://pypi.python.org/pypi/breathe
 
    .. |breathe-py_versions| image:: https://pypip.in/py_versions/breathe/badge.svg
@@ -115,7 +115,7 @@ Generates documentation from source code or others
 
    :author:  Brian Mearns
    :version: 1.0.0.2-r3
-   :release: 2014-05-19 14:38:55
+   :release: 2014-05-19 14:38:52
    :Download URL: https://pypi.python.org/pypi/docit
 
    .. |docit-py_versions| image:: https://pypip.in/py_versions/docit/badge.svg
@@ -267,11 +267,11 @@ Generates documentation from source code or others
    :extension-name:`sphinx-argparse`
    |sphinx-argparse-py_versions| |sphinx-argparse-download|
 
-   Sphinx extension that automatically documents argparse commands and options
+   A sphinx extension that automatically documents argparse commands and options
 
    :author:  Aleksandr Rudakov and Devon Ryan
-   :version: 0.2.1
-   :release: 2017-06-12 12:37:27
+   :version: 0.2.5
+   :release: 2018-11-14 14:08:08
    :Download URL: https://pypi.python.org/pypi/sphinx-argparse
 
    .. |sphinx-argparse-py_versions| image:: https://pypip.in/py_versions/sphinx-argparse/badge.svg
@@ -310,8 +310,8 @@ Generates documentation from source code or others
    Support for using Sphinx on JSDoc-documented JS code
 
    :author:  Erik Rose
-   :version: 2.1
-   :release: 2017-08-30 19:09:48
+   :version: 2.8
+   :release: 2019-09-16 20:22:50
    :Download URL: https://pypi.python.org/pypi/sphinx-js/
 
    .. |sphinx-js-py_versions| image:: https://pypip.in/py_versions/sphinx-js/badge.svg
@@ -370,8 +370,8 @@ Generates documentation from source code or others
    Documenting CLI programs
 
    :author:  Hong Minhee
-   :version: 0.1.3
-   :release: 2016-10-06 20:01:48
+   :version: 0.1.5
+   :release: 2018-05-15 13:17:56
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-autoprogram
 
    .. |sphinxcontrib-autoprogram-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-autoprogram/badge.svg
@@ -427,11 +427,11 @@ Generates documentation from source code or others
    :extension-name:`sphinxcontrib-pecanwsme`
    |sphinxcontrib-pecanwsme-py_versions| |sphinxcontrib-pecanwsme-download|
 
-   Extension to Sphinx for documenting APIs built with Pecan and WSME
+   A Sphinx extension for documenting APIs built with Pecan and WSME
 
    :author:  Doug Hellmann
-   :version: 0.8.0
-   :release: 2014-04-28 14:54:08
+   :version: 0.10.0
+   :release: 2019-04-02 09:42:17
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-pecanwsme
 
    .. |sphinxcontrib-pecanwsme-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-pecanwsme/badge.svg
@@ -450,8 +450,8 @@ Generates documentation from source code or others
    Sphinx extension to embed Robot Framework test cases and user keywords into Sphinx documents
 
    :author:  Asko Soukka
-   :version: 0.9.1
-   :release: 2017-05-31 17:41:18
+   :version: 0.11.0
+   :release: 2019-11-08 13:03:41
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-robotdoc
 
    .. |sphinxcontrib-robotdoc-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-robotdoc/badge.svg
@@ -470,8 +470,8 @@ Generates documentation from source code or others
    Sphinx extension zopeext
 
    :author:  Michael McNeil Forbes
-   :version: 0.2.1
-   :release: 2013-05-03 03:19:41
+   :version: 0.2.4
+   :release: 2020-03-16 07:12:35
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-zopeext
 
    .. |sphinxcontrib-zopeext-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-zopeext/badge.svg

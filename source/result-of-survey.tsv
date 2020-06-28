@@ -76,6 +76,7 @@ sphinxcontrib-operationdomain	https://pypi.python.org/pypi/sphinxcontrib-operati
 sphinxcontrib-phpdomain	https://pypi.python.org/pypi/sphinxcontrib-phpdomain	PyPI	domains	PHP domain
 sphinxcontrib-scaladomain	https://pypi.python.org/pypi/sphinxcontrib-scaladomain	PyPI	domains	Scala domain
 sphinxcontrib-specdomain	https://pypi.python.org/pypi/sphinxcontrib-specdomain	PyPI	domains	SPEC domain
+sphinxcontrib-waspdomain	https://pypi.python.org/pypi/sphinxcontrib-waspdomain	PyPI	domains	a domain for the Wasp Scripting Language
 sphinxcontrib-cheader	https://pypi.python.org/pypi/sphinxcontrib-cheader	PyPI	domains	
 cartouche	https://pypi.python.org/pypi/cartouche	PyPI	enhancement	support google style docstrings
 configurableinclude.py	https://gist.github.com/j0nes2k/8672186	gist	enhancement	enhance include directive relative from configured path
@@ -133,6 +134,7 @@ sphinxcontrib-googlechart	https://pypi.python.org/pypi/sphinxcontrib-googlechart
 sphinxcontrib-gravatar	https://pypi.python.org/pypi/sphinxcontrib-gravatar	PyPI	images	Gravater icons
 sphinxcontrib-gruffygen	https://pypi.python.org/pypi/sphinxcontrib-gruffygen	PyPI	images	Gruffy
 sphinxcontrib-gtkwave	https://pypi.python.org/pypi/sphinxcontrib-gtkwave	PyPI	images	GTKWave
+sphinxcontrib-libreoffice	https://pypi.python.org/pypi/sphinxcontrib-libreoffice	PyPI	images	Libre Office
 sphinxcontrib-mscgen	https://pypi.python.org/pypi/sphinxcontrib-mscgen	PyPI	images	mscgen
 sphinxcontrib-nwdiag	https://pypi.python.org/pypi/sphinxcontrib-nwdiag	PyPI	images	nwdiag
 sphinxcontrib-plantuml	https://pypi.python.org/pypi/sphinxcontrib-plantuml	PyPI	images	PlantUML
@@ -148,6 +150,7 @@ sphinxcontrib-yuml	https://pypi.python.org/pypi/sphinxcontrib-yuml	PyPI	images	y
 sphinxjp-tk0miya	https://pypi.python.org/pypi/sphinxjp-tk0miya	PyPI	images	search image from flickr and insert it
 sphinx-xref	https://github.com/michaeljones/sphinx-xref	github	integrations	make it easier to link repeatedly to external documentation
 sphinxcontrib-doxylink	https://pypi.python.org/pypi/sphinxcontrib-doxylink	PyPI	integrations	link to external Doxygen API documentation
+sphinxcontrib-epydoc	https://pypi.python.org/pypi/sphinxcontrib-epydoc	PyPI	integrations	cross reference to external docs by epydoc
 TracSphinx	https://pypi.python.org/pypi/TracSphinx	PyPI	integrations	sphinx plugin *for trac*
 sphinxcontrib-osaka	https://pypi.python.org/pypi/sphinxcontrib-osaka	PyPI	jokes	convert to Osaka dialect
 sphinxcontrib-spam	https://pypi.python.org/pypi/sphinxcontrib-spam	PyPI	jokes	SPAM role
@@ -218,6 +221,7 @@ sphinx_amazonjp_embed	https://pypi.python.org/pypi/sphinx_amazonjp_embed	PyPI	we
 sphinx-contrib/feed	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	website/blogs	generate RSS
 sphinx-contrib/hyphenator	https://bitbucket.org/birkenfeld/sphinx-contrib	bitbucket	website/blogs	provides hyphenation for html documentation
 sphinxcontrib_awesome.py	https://gist.github.com/tk0miya/8558c915187442a0f7dd	gist	website/blogs	Use font awesome using `:awesome:` role
+sphinxcontrib-ansi	https://pypi.python.org/pypi/sphinxcontrib-ansi	PyPI	website/blogs	turns ANSI color sequences on HTML
 sphinxcontrib-fulltoc	https://pypi.python.org/pypi/sphinxcontrib-fulltoc	PyPI	website/blogs	Enhance sidebar
 sphinxcontrib-googleanalytics	https://pypi.python.org/pypi/sphinxcontrib-googleanalytics	PyPI	website/blogs	Add googleanalytics trackers to your docs
 sphinxcontrib-newsfeed	https://pypi.python.org/pypi/sphinxcontrib-newsfeed	PyPI	website/blogs	generate RSS
@@ -228,3 +232,5 @@ sphinxtogithub	https://pypi.python.org/pypi/sphinxtogithub	PyPI	website/blogs	re
 yasfb	https://pypi.python.org/pypi/yasfb	PyPI	website/blogs	generate RSS
 sphinx-js	https://pypi.python.org/pypi/sphinx-js/	PyPI	autodoc	Autodoc for JSDoc-formatted JavaScript
 sphinxcontrib-confluencebuilder	https://pypi.python.org/pypi/sphinxcontrib-confluencebuilder/	PyPI	builders	Atlassian Confluence Builder for Sphinx
+sphinx-pyppeteer-builder	https://pypi.org/project/sphinx-pyppeteer-builder/	PyPI	builders	a PDF generator for Sphinx without usage of LaTeX
+sphinx-weasyprint-builder	https://pypi.org/project/sphinx-weasyprint-builder/	PyPI	builders	a PDF generator for Sphinx without usage of LaTeX.

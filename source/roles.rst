@@ -59,7 +59,7 @@ Adds Sphinx roles
 
    :author:  Richard Jones, Georg Brandl
    :version: 0.2
-   :release: 2010-07-25 23:21:03
+   :release: 2010-07-25 23:21:38
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-cheeseshop
 
    .. |sphinxcontrib-cheeseshop-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-cheeseshop/badge.svg
@@ -79,7 +79,7 @@ Adds Sphinx roles
 
    :author:  Kevin Teague
    :version: 0.1
-   :release: 2011-01-29 18:49:47
+   :release: 2011-01-29 18:49:46
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-email
 
    .. |sphinxcontrib-email-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-email/badge.svg
@@ -118,8 +118,8 @@ Adds Sphinx roles
    Sphinx linux manpage extension
 
    :author:  Dariusz Dwornikowski
-   :version: 0.4
-   :release: 2013-10-05 19:01:12
+   :version: 0.6
+   :release: 2019-04-26 11:06:44
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-manpage
 
    .. |sphinxcontrib-manpage-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-manpage/badge.svg
@@ -139,7 +139,7 @@ Adds Sphinx roles
 
    :author:  Joey Chen
    :version: 0.2
-   :release: 2013-04-06 00:35:20
+   :release: 2013-04-06 00:49:26
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-smblink
 
    .. |sphinxcontrib-smblink-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-smblink/badge.svg

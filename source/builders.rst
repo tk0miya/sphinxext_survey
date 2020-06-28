@@ -1,4 +1,4 @@
-builders (12)
+builders (14)
 =============
 
 Enables to output document as new format
@@ -14,8 +14,8 @@ Enables to output document as new format
    Generate HTML presentations from plain text sources with all the power of Sphinx.
 
    :author:  Nathan Yergler
-   :version: 1.0.0
-   :release: 2017-09-07 23:58:44
+   :version: 2.0.0
+   :release: 2020-06-27 16:34:23
    :Download URL: https://pypi.python.org/pypi/hieroglyph
 
    .. |hieroglyph-py_versions| image:: https://pypip.in/py_versions/hieroglyph/badge.svg
@@ -80,14 +80,54 @@ Enables to output document as new format
 
 .. container:: sphinx-extension PyPI
 
+   :extension-name:`sphinx-pyppeteer-builder`
+   |sphinx-pyppeteer-builder-py_versions| |sphinx-pyppeteer-builder-download|
+
+   A Sphinx PDF builder using pyppeteer
+
+   :author:  Kujiu
+   :version: 0.1.0
+   :release: 2020-06-20 15:08:39
+   :Download URL: https://pypi.org/project/sphinx-pyppeteer-builder/
+
+   .. |sphinx-pyppeteer-builder-py_versions| image:: https://pypip.in/py_versions/sphinx-pyppeteer-builder/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-pyppeteer-builder/
+      :alt: Latest Version
+
+   .. |sphinx-pyppeteer-builder-download| image:: https://pypip.in/download/sphinx-pyppeteer-builder/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-pyppeteer-builder/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
+   :extension-name:`sphinx-weasyprint-builder`
+   |sphinx-weasyprint-builder-py_versions| |sphinx-weasyprint-builder-download|
+
+   A Sphinx PDF builder using WeasyPrint
+
+   :author:  Kujiu
+   :version: 0.1.0
+   :release: 2020-06-19 00:34:36
+   :Download URL: https://pypi.org/project/sphinx-weasyprint-builder/
+
+   .. |sphinx-weasyprint-builder-py_versions| image:: https://pypip.in/py_versions/sphinx-weasyprint-builder/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-weasyprint-builder/
+      :alt: Latest Version
+
+   .. |sphinx-weasyprint-builder-download| image:: https://pypip.in/download/sphinx-weasyprint-builder/badge.svg
+      :target: https://pypi.python.org/pypi/sphinx-weasyprint-builder/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
    :extension-name:`sphinxcontrib-confluencebuilder`
    |sphinxcontrib-confluencebuilder-py_versions| |sphinxcontrib-confluencebuilder-download|
 
-   Sphinx extension to output Atlassian Confluence Wiki files and publish to Confluence Servers.
+   Sphinx extension to output Atlassian Confluence Storage Markup documents and publish to Confluence instances.
 
    :author:  Anthony Shaw
-   :version: 0.6
-   :release: 2017-04-23 02:10:44
+   :version: 1.2.0
+   :release: 2020-01-03 19:00:07
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-confluencebuilder/
 
    .. |sphinxcontrib-confluencebuilder-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-confluencebuilder/badge.svg
@@ -107,7 +147,7 @@ Enables to output document as new format
 
    :author:  shimizukawa
    :version: 0.1.0
-   :release: 2014-05-24 08:05:45
+   :release: 2014-05-24 08:05:48
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-dashbuilder
 
    .. |sphinxcontrib-dashbuilder-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-dashbuilder/badge.svg
@@ -174,8 +214,8 @@ Enables to output document as new format
    Sphinx extension to output reST files.
 
    :author:  Freek Dijkstra
-   :version: 0.1
-   :release: 2013-08-25 14:12:07
+   :version: 0.2
+   :release: 2018-06-08 19:48:45
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-restbuilder
 
    .. |sphinxcontrib-restbuilder-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-restbuilder/badge.svg

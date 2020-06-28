@@ -35,7 +35,7 @@ Generates tables from database or others
 
    :author:  Kirill Simonov (Prometheus Research, LLC)
    :version: 0.1.5
-   :release: 2015-02-18 23:51:31
+   :release: 2015-02-18 23:51:33
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-htsql
 
    .. |sphinxcontrib-htsql-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-htsql/badge.svg
@@ -51,11 +51,11 @@ Generates tables from database or others
    :extension-name:`sphinxcontrib-sqltable`
    |sphinxcontrib-sqltable-py_versions| |sphinxcontrib-sqltable-download|
 
-   Sphinx "SQLTable" extension
+   Sphinx extension for embedding database content in documents
 
    :author:  Doug Hellmann
-   :version: 1.0
-   :release: 2012-01-07 15:00:45
+   :version: 2.0.0
+   :release: 2019-06-15 19:13:40
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-sqltable
 
    .. |sphinxcontrib-sqltable-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-sqltable/badge.svg

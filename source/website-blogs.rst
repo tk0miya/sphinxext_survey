@@ -1,4 +1,4 @@
-website/blogs (14)
+website/blogs (15)
 ==================
 
 Extensions for Web sites and blogging
@@ -11,11 +11,11 @@ Extensions for Web sites and blogging
    :extension-name:`ablog`
    |ablog-py_versions| |ablog-download|
 
-   ABlog for blogging with Sphinx
+   A Sphinx extension that converts any documentation or personal website project into a full-fledged blog.
 
-   :author:  Ahmet Bakan
-   :version: 0.8.4
-   :release: 2016-11-01 04:59:03
+   :author:  The SunPy Community
+   :version: 0.10.6
+   :release: 2020-05-27 16:18:53
    :Download URL: https://pypi.python.org/pypi/ablog
 
    .. |ablog-py_versions| image:: https://pypip.in/py_versions/ablog/badge.svg
@@ -84,6 +84,26 @@ Extensions for Web sites and blogging
 
 .. container:: sphinx-extension PyPI
 
+   :extension-name:`sphinxcontrib-ansi`
+   |sphinxcontrib-ansi-py_versions| |sphinxcontrib-ansi-download|
+
+   
+
+   :author:  unknown
+   :version: unknown
+   :release: unknown
+   :Download URL: https://pypi.python.org/pypi/sphinxcontrib-ansi
+
+   .. |sphinxcontrib-ansi-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-ansi/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-ansi/
+      :alt: Latest Version
+
+   .. |sphinxcontrib-ansi-download| image:: https://pypip.in/download/sphinxcontrib-ansi/badge.svg
+      :target: https://pypi.python.org/pypi/sphinxcontrib-ansi/
+      :alt: Downloads
+
+.. container:: sphinx-extension PyPI
+
    :extension-name:`sphinxcontrib-fulltoc`
    |sphinxcontrib-fulltoc-py_versions| |sphinxcontrib-fulltoc-download|
 
@@ -131,7 +151,7 @@ Extensions for Web sites and blogging
 
    :author:  Kirill Simonov (Prometheus Research, LLC)
    :version: 0.1.4
-   :release: 2015-02-18 23:53:38
+   :release: 2015-02-18 23:53:40
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-newsfeed
 
    .. |sphinxcontrib-newsfeed-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-newsfeed/badge.svg
@@ -151,7 +171,7 @@ Extensions for Web sites and blogging
 
    :author:  Sho Shimauchi
    :version: 0.7.1
-   :release: 2012-12-17 14:55:29
+   :release: 2012-12-17 14:55:30
    :Download URL: https://pypi.python.org/pypi/sphinxcontrib-recentpages
 
    .. |sphinxcontrib-recentpages-py_versions| image:: https://pypip.in/py_versions/sphinxcontrib-recentpages/badge.svg
@@ -238,8 +258,8 @@ Extensions for Web sites and blogging
    Yet Another Sphinx Feed Builder
 
    :author:  Doug Hellmann
-   :version: 0.6.1
-   :release: 2017-04-13 20:50:43
+   :version: 0.8.0
+   :release: 2019-03-29 15:01:10
    :Download URL: https://pypi.python.org/pypi/yasfb
 
    .. |yasfb-py_versions| image:: https://pypip.in/py_versions/yasfb/badge.svg
